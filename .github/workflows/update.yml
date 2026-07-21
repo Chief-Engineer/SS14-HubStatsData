@@ -1,0 +1,94 @@
+name: Update
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Download updater
+        env:
+          PAT: ${{ secrets.UPDATER_PAT }}
+        run: |
+          set -euo pipefail
+          RELEASE=$(curl -sL -H "Authorization: token $PAT" \
+            "https://api.github.com/repos/Chief-Engineer/SS14-HubStats/releases/latest")
+          ASSET_ID=$(echo "$RELEASE" | jq -r \
+            '.assets[] | select(.name | test("linux-amd64$")) | .id')
+          if [ -z "$ASSET_ID" ] || [ "$ASSET_ID" = "null" ]; then
+            echo "::error::Could not find binary asset in latest release"
+            exit 1
+          fi
+          curl -sL -H "Authorization: token $PAT" -H "Accept: application/octet-stream" \
+            "https://api.github.com/repos/Chief-Engineer/SS14-HubStats/releases/assets/$ASSET_ID" \
+            -o ss14-hub-stats && chmod +x ss14-hub-stats
+          if ! file ss14-hub-stats | grep -q ELF; then
+            echo "::error::Downloaded file is not a valid binary"
+            exit 1
+          fi
+
+      - name: Fetch data
+        run: ./ss14-hub-stats update
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && echo "No data changes to commit" || git commit -m "Update data"
+
+      - name: Push data
+        run: git push
+
+      - name: Generate history
+        run: ./ss14-hub-stats generate-history --data-dir . --output-dir ./generated --config config.yaml
+
+      - name: Update site
+        run: ./ss14-hub-stats update-site --dir .
+
+      - name: Update workflows
+        run: ./ss14-hub-stats update-workflows --dir .
+
+      - name: Commit history
+        run: |
+          git add generated/ .github/workflows/ .gitignore
+          git diff --cached --quiet && echo "No history changes to commit" || git commit -m "Update history"
+
+      - name: Push history
+        run: git push
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./generated
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

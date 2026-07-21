@@ -1,0 +1,6 @@
+*.html
+*.js
+*.css
+__pycache__/
+*.pyc
+venv/

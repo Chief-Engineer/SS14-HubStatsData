@@ -1,0 +1,26 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+    paths: [config.yaml]
+  pull_request:
+    branches: [main]
+    paths: [config.yaml]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+
+      - name: Install PyYAML
+        run: pip install pyyaml
+
+      - name: Validate config
+        run: python validate_config.py --config config.yaml
