@@ -25,6 +25,11 @@
       "total_players": 14,
       "server_count": 8,
       "fetched_at": "2026-07-23T11:28:07Z"
+    },
+    {
+      "total_players": 60,
+      "server_count": 9,
+      "fetched_at": "2026-07-23T13:07:56Z"
     }
   ]
 }
