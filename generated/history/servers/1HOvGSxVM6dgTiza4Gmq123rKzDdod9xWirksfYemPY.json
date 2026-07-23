@@ -1,0 +1,14 @@
+{
+  "name": "Unknown Server",
+  "entries": [
+    {
+      "players": 0,
+      "soft_max_players": 35,
+      "hubs": [
+        1
+      ],
+      "online": true,
+      "fetched_at": "2026-07-23T06:15:42Z"
+    }
+  ]
+}

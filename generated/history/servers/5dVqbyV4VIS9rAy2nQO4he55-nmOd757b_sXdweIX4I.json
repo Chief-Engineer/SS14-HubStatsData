@@ -1,0 +1,14 @@
+{
+  "name": "R.O.N. Station",
+  "entries": [
+    {
+      "players": 0,
+      "soft_max_players": 256,
+      "hubs": [
+        1
+      ],
+      "online": true,
+      "fetched_at": "2026-07-23T06:15:42Z"
+    }
+  ]
+}
