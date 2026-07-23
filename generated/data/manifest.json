@@ -8,6 +8,7 @@
   },
   "05DntQDAFv6YZMHeOSPU_t2Dt3Mwie8cMvCgiYOC0Lk": {
     "name": "Unknown Server",
+    "players": 1,
     "hubs": [
       1
     ],
@@ -15,6 +16,7 @@
   },
   "0Jgf4DsRhbV02FVn2ulur6gqvbd3t8jyVm07Ixnlkco": {
     "name": "Unknown Server",
+    "players": 1,
     "hubs": [
       2
     ],
@@ -22,7 +24,7 @@
   },
   "1HOvGSxVM6dgTiza4Gmq123rKzDdod9xWirksfYemPY": {
     "name": "Unknown Server",
-    "players": 1,
+    "players": 2,
     "hubs": [
       1
     ],
@@ -30,7 +32,6 @@
   },
   "2MuTjtCQsVJSte4OGwn8hb1Y7VERrBRBJGAZTjowN9o": {
     "name": "Unknown Server",
-    "players": 1,
     "hubs": [
       1
     ],
@@ -52,7 +53,7 @@
   },
   "4dBrKzas_K79d9YrGLkwURDMzDd5uPnoQFaL1VtA3Pg": {
     "name": "Unknown Server",
-    "players": 35,
+    "players": 67,
     "hubs": [
       1
     ],
@@ -60,11 +61,7 @@
   },
   "4wNlAl7Ui_PKgIphvI-mSFni76AsaoaWvGApoRv6B7Y": {
     "name": "Unknown Server",
-    "players": 1,
-    "hubs": [
-      1
-    ],
-    "online": true
+    "online": false
   },
   "5DzNn7MRpm4rm3WA_V39BHxpCSyhoJ4RCL9Mm54_Czs": {
     "name": "Unknown Server",
@@ -75,6 +72,7 @@
   },
   "5dVqbyV4VIS9rAy2nQO4he55-nmOd757b_sXdweIX4I": {
     "name": "R.O.N. Station",
+    "players": 1,
     "hubs": [
       1
     ],
@@ -90,7 +88,7 @@
   },
   "61po4Wdbn4dNq3B-M146zJCegCDR7sSVkxUkD_2y0BM": {
     "name": "Unknown Server",
-    "players": 2,
+    "players": 5,
     "hubs": [
       1
     ],
@@ -105,7 +103,7 @@
   },
   "66fluP9yAOd_d34dFOC3H8_XWUeuD1Miz-FWZyTUeYo": {
     "name": "Omu - Pelican",
-    "players": 68,
+    "players": 41,
     "hubs": [
       1
     ],
@@ -113,7 +111,7 @@
   },
   "6DN69EFn8ZDKhEWoaj_GAW_iHo0q0Ud8tlDcv03oNCE": {
     "name": "Corvax - Frontier",
-    "players": 18,
+    "players": 51,
     "hubs": [
       1
     ],
@@ -121,7 +119,7 @@
   },
   "6NWc0FIWq7JDdkUYeDbKCJmtpXxXlZ8OXaePeoudYJA": {
     "name": "Unknown Server",
-    "players": 92,
+    "players": 53,
     "hubs": [
       1,
       2
@@ -130,6 +128,7 @@
   },
   "6yB60Jd2Hr2GpRkEjwv2wrJBMS9wZTZ0VqNO52aJiSo": {
     "name": "Unknown Server",
+    "players": 1,
     "hubs": [
       1
     ],
@@ -137,6 +136,7 @@
   },
   "75iFUgZ9BuoG8yIe35OseWhYR0HwX6Inv9ymCYVdIVY": {
     "name": "Unknown Server",
+    "players": 2,
     "hubs": [
       1
     ],
@@ -199,7 +199,7 @@
     "name": "Delta-v - Apoapsis",
     "address": "ss14s://apoapsis.deltav.gay:443",
     "connect": true,
-    "players": 43,
+    "players": 40,
     "hubs": [
       1
     ],
@@ -214,6 +214,7 @@
   },
   "ChvZRha2smWGUyBPlFvCdwHHnaqLHdz7uTl0rAc86Eg": {
     "name": "Unknown Server",
+    "players": 2,
     "hubs": [
       1
     ],
@@ -235,7 +236,6 @@
   },
   "D24cmgwzm8svZbtkPDTvHBcR8CZGiojpcCsc9hOxyrI": {
     "name": "Unknown Server",
-    "players": 1,
     "hubs": [
       1,
       2
@@ -246,7 +246,7 @@
     "name": "Delta-v - Periapsis",
     "address": "ss14s://periapsis.deltav.gay:443",
     "connect": true,
-    "players": 9,
+    "players": 1,
     "hubs": [
       1
     ],
@@ -261,7 +261,7 @@
   },
   "EBWV7XU3htaYV_co4BVFwyhr9SKB_fcJI8yNWkwRHJs": {
     "name": "RatBite Station",
-    "players": 38,
+    "players": 28,
     "hubs": [
       1
     ],
@@ -290,7 +290,7 @@
   },
   "FjsKSBUkgc9KDJj2Vv106o63muPscYjXLJ7m0W7DenY": {
     "name": "Unknown Server",
-    "players": 8,
+    "players": 16,
     "hubs": [
       1
     ],
@@ -305,7 +305,7 @@
   },
   "GQG_ncVcExpnqhIXmyNIdd-QcUwKhsUxVp_jAos9Exk": {
     "name": "Space Stories Marine Corps - Core",
-    "players": 89,
+    "players": 135,
     "hubs": [
       1
     ],
@@ -320,7 +320,7 @@
   },
   "I2jlA6z-uZ9b9FqntqCEtDQOAslDRrKXfkoMI13SmFY": {
     "name": "Unknown Server",
-    "players": 1,
+    "players": 2,
     "hubs": [
       1
     ],
@@ -335,6 +335,7 @@
   },
   "IuB5-3PY9AYf2eDgvXDm8VUvMrNYTQMlL0T8XYIOS4A": {
     "name": "Unknown Server",
+    "players": 8,
     "hubs": [
       1
     ],
@@ -342,7 +343,6 @@
   },
   "IxjeKClr9f5TxFF7EMCSG-nhO2Srmuc2Kg6Q1QgbFr0": {
     "name": "Unknown Server",
-    "players": 1,
     "hubs": [
       1
     ],
@@ -350,7 +350,7 @@
   },
   "J0a3grrK8FxLMnAtRZTGaXorLUoxmcbcZjUTsweM9OA": {
     "name": "Funky Station - Cirno",
-    "players": 47,
+    "players": 38,
     "hubs": [
       1
     ],
@@ -360,7 +360,7 @@
     "name": "Starlight - Alpha",
     "address": "ss14://starlight.network:31201",
     "connect": true,
-    "players": 178,
+    "players": 131,
     "hubs": [
       1
     ],
@@ -377,7 +377,7 @@
     "name": "Wizard's Den - Lizard",
     "address": "ss14s://lizard.spacestation14.com:443",
     "connect": true,
-    "players": 33,
+    "players": 21,
     "hubs": [
       1
     ],
@@ -408,7 +408,7 @@
     "name": "Goob - Basileus",
     "address": "ss14s://omega.goobstation.com:443",
     "connect": true,
-    "players": 33,
+    "players": 14,
     "hubs": [
       1
     ],
@@ -416,7 +416,7 @@
   },
   "Nnl9TFykvJdja-i5sTDW_V-0NBy7ZhWqlXQWqOrKTbU": {
     "name": "Unknown Server",
-    "players": 26,
+    "players": 22,
     "hubs": [
       1
     ],
@@ -438,7 +438,7 @@
   },
   "OvQ03W1cbwNS-P50yAxwdotw-EII6YhcQ1NlpQeLyos": {
     "name": "Unknown Server",
-    "players": 36,
+    "players": 10,
     "hubs": [
       1
     ],
@@ -453,7 +453,7 @@
   },
   "PJmpuZtvf7G2rVToAZXm74SkGtOGt6051iVFowFOfmE": {
     "name": "Unknown Server",
-    "players": 34,
+    "players": 68,
     "hubs": [
       1
     ],
@@ -482,7 +482,7 @@
   },
   "R1ArcUxrA5-F4Vpb5WUDEG_57ZsEIrBbQwQFHaIGFNg": {
     "name": "Unknown Server",
-    "players": 7,
+    "players": 15,
     "hubs": [
       1
     ],
@@ -490,7 +490,7 @@
   },
   "RG_7FnAXCQSIG8v8oQeUQDnAUAzuYVk34qhX7hIowKY": {
     "name": "Unknown Server",
-    "players": 5,
+    "players": 10,
     "hubs": [
       1
     ],
@@ -498,6 +498,7 @@
   },
   "Rec9x6Z-8u31UpE1VtrtdKlpkAaBc3gYOeaKKdRep9U": {
     "name": "Unknown Server",
+    "players": 7,
     "hubs": [
       1
     ],
@@ -549,11 +550,7 @@
   },
   "UGehM2x0645DMCLlpl8S9evFowVlV2VvlVMcAo42F6A": {
     "name": "Harmony",
-    "players": 43,
-    "hubs": [
-      1
-    ],
-    "online": true
+    "online": false
   },
   "UZIyubIgKtJpTywBOkIH-j9O0FfvTpgRqMdLsZHMcwI": {
     "name": "Unknown Server",
@@ -581,7 +578,7 @@
   },
   "VZ9g-z8Q88NlvXw-weky3zIEqjh4PTZC_Gjbi2PIYOQ": {
     "name": "Unknown Server",
-    "players": 17,
+    "players": 42,
     "hubs": [
       1
     ],
@@ -591,6 +588,7 @@
     "name": "Goob - Sigma",
     "address": "ss14s://sigma.goobstation.com:443",
     "connect": true,
+    "players": 2,
     "hubs": [
       1
     ],
@@ -620,7 +618,7 @@
   },
   "Y4wzmKn04c7oesNSKvmr0lfahXCW_AJdd4RWQwpioNg": {
     "name": "Monolith Babel",
-    "players": 25,
+    "players": 18,
     "hubs": [
       1
     ],
@@ -628,7 +626,7 @@
   },
   "YIXSLPg366Ebn0WEYexPnzcXzcO96TUMOWWISkIv87k": {
     "name": "Unknown Server",
-    "players": 6,
+    "players": 8,
     "hubs": [
       1
     ],
@@ -636,6 +634,7 @@
   },
   "YmhSeUBDAJ-vCqnoMRpe-5O-D9scgZJunJVRT3qgKbQ": {
     "name": "Unknown Server",
+    "players": 1,
     "hubs": [
       1
     ],
@@ -651,7 +650,6 @@
   },
   "ZPoFLtDNIs9CrS8EchYFSLYZDYYL1GAljYxTf8AvPio": {
     "name": "Unknown Server",
-    "players": 7,
     "hubs": [
       1
     ],
@@ -666,6 +664,7 @@
   },
   "_4Paap51_jeVZ4uQ-d7XaIvn2QZC2S9etk0WeLNCAq4": {
     "name": "Unknown Server",
+    "players": 1,
     "hubs": [
       1
     ],
@@ -694,7 +693,7 @@
   },
   "aPbm7v9a81pVHquKjUPCJYxhVoYVnX21keIBD6-FAto": {
     "name": "Unknown Server",
-    "players": 17,
+    "players": 36,
     "hubs": [
       1
     ],
@@ -717,7 +716,7 @@
   },
   "b2kjvzJ0a17HpVi27o3wZE_2tZZP9QUVCThjIKAs2iY": {
     "name": "Afterlight",
-    "players": 36,
+    "players": 21,
     "hubs": [
       1
     ],
@@ -748,7 +747,7 @@
   },
   "bvMtO8wNxOagwC5fMGVzvT3haYO-EWDCOdA_x-tcBbA": {
     "name": "TraumaStation",
-    "players": 40,
+    "players": 34,
     "hubs": [
       1
     ],
@@ -756,7 +755,7 @@
   },
   "cWAE4zVk_LPxnGKlp8B1Snm00sCG6t6fGzZ8EBC35ro": {
     "name": "Unknown Server",
-    "players": 2,
+    "players": 3,
     "hubs": [
       1
     ],
@@ -764,7 +763,7 @@
   },
   "d2EwzJDQyECVsB1DEZ-H7uxC0riF_UvTvC8eWoNXlwY": {
     "name": "Unknown Server",
-    "players": 48,
+    "players": 80,
     "hubs": [
       1
     ],
@@ -779,7 +778,7 @@
   },
   "dk_LWkp07m48n2ekT0V7SGFQ1qphhRLoIYLdxpNq-Ds": {
     "name": "Unknown Server",
-    "players": 24,
+    "players": 34,
     "hubs": [
       1
     ],
@@ -794,7 +793,7 @@
   },
   "dtRSm4yC4fHFwefXluju-szpJe6KXOVSbk-WhxbjRP0": {
     "name": "Unknown Server",
-    "players": 2,
+    "players": 3,
     "hubs": [
       1
     ],
@@ -802,7 +801,7 @@
   },
   "eA6-ZXXvAwD1P_BHb9E0G7xb17o2iXCxQiZCIkCuMb4": {
     "name": "Unknown Server",
-    "players": 22,
+    "players": 30,
     "hubs": [
       1
     ],
@@ -817,6 +816,7 @@
   },
   "eWeeFKPpLJWhGPPHoDqkIGE904UfiHloA563UR_KTJM": {
     "name": "Unknown Server",
+    "players": 6,
     "hubs": [
       1
     ],
@@ -824,7 +824,7 @@
   },
   "ekEIM9wiv4iEUh17zBDnrGPpvDhp3g1bKXO9apG4heU": {
     "name": "Unknown Server",
-    "players": 15,
+    "players": 34,
     "hubs": [
       1
     ],
@@ -832,6 +832,7 @@
   },
   "emIXRNPqdVMRawkR5DWu6E_mqHIadZw-tf-2dim8Lmk": {
     "name": "Unknown Server",
+    "players": 1,
     "hubs": [
       1
     ],
@@ -855,7 +856,7 @@
     "name": "Starlight - Beta",
     "address": "ss14://starlight.network:31202",
     "connect": true,
-    "players": 26,
+    "players": 23,
     "hubs": [
       1
     ],
@@ -870,6 +871,15 @@
   },
   "fOahEphfox8-SuVVuTQX9S7DcLnl9p20UG9_1elvy04": {
     "name": "Unknown Server",
+    "players": 1,
+    "hubs": [
+      1
+    ],
+    "online": true
+  },
+  "fOozQhMWUB2GyrNlGhwgkb5EquaWZNrdUw1mLv5kwoE": {
+    "name": "Unknown Server",
+    "players": 5,
     "hubs": [
       1
     ],
@@ -884,7 +894,7 @@
   },
   "f_tsgqefPMUHfi58TSmOHUAAli1OEGB0xqLgUE9ilLU": {
     "name": "Unknown Server",
-    "players": 8,
+    "players": 24,
     "hubs": [
       1
     ],
@@ -899,7 +909,6 @@
   },
   "hIAt_vMP7qL2jnIF7hY8xmxrQcmtsz9i4N9g82yx3k0": {
     "name": "Unknown Server",
-    "players": 1,
     "hubs": [
       1
     ],
@@ -907,7 +916,7 @@
   },
   "i9vis_B-uXfu6ok2LxdImoy8zSWdw8Kxzc3FjNKNa9w": {
     "name": "Unknown Server",
-    "players": 4,
+    "players": 6,
     "hubs": [
       1
     ],
@@ -924,7 +933,7 @@
     "name": "Boomerstation",
     "address": "ss14://ss14.monkestation.com:1212",
     "connect": true,
-    "players": 5,
+    "players": 1,
     "hubs": [
       1
     ],
@@ -939,7 +948,7 @@
   },
   "jeqmRuwNg3hQT07cMEAgVOcaY4Z_TnnjVQEvzHZSyIo": {
     "name": "Unknown Server",
-    "players": 6,
+    "players": 14,
     "hubs": [
       1
     ],
@@ -975,7 +984,6 @@
   },
   "ktah7rmZzmtt48otOJxGhs5DKrEoVK4uaF5Lx_1cMeY": {
     "name": "Unknown Server",
-    "players": 1,
     "hubs": [
       1
     ],
@@ -983,7 +991,7 @@
   },
   "kyRtj80QuGNRqbC4gN-om59ifbolhVdfb4ygZ19N1NM": {
     "name": "Colonial Marine Corps",
-    "players": 6,
+    "players": 2,
     "hubs": [
       1
     ],
@@ -998,9 +1006,9 @@
   },
   "l8grJFBv9VYzKZK4v6KkqWq2vIefLGM73VMtPoaVfTo": {
     "name": "Wizard's Den - Leviathan",
-    "address": "ss14s://leviathan.spacestation14.com:443/server",
+    "address": "ss14s://leviathan.spacestation14.com:443",
     "connect": true,
-    "players": 49,
+    "players": 58,
     "hubs": [
       1
     ],
@@ -1015,7 +1023,7 @@
   },
   "lqfMKqdorkGVl-p2Ud8HS6g_waB3pbbDnHkOYWpSc5U": {
     "name": "Unknown Server",
-    "players": 15,
+    "players": 34,
     "hubs": [
       1
     ],
@@ -1023,7 +1031,7 @@
   },
   "lvOokGMibQonIrwL40tKIhpcHKlYCpWRxKIv5zs64BU": {
     "name": "Corvax - Вега",
-    "players": 9,
+    "players": 31,
     "hubs": [
       1
     ],
@@ -1031,7 +1039,7 @@
   },
   "mCFfgk2p3iOZxXye2XnTfmeMVknIOhxJdPmvLx6LJjM": {
     "name": "Unknown Server",
-    "players": 57,
+    "players": 48,
     "hubs": [
       1
     ],
@@ -1046,7 +1054,7 @@
   },
   "o5l1gKcBRc63BCFCi-_rV2MnX1CZ-SbOMsCdtUohzLs": {
     "name": "Misfits: Nuclear Wasteland 2296",
-    "players": 46,
+    "players": 39,
     "hubs": [
       1
     ],
@@ -1054,6 +1062,7 @@
   },
   "o9Ibs8cHxkioMeSx6fOJkZm3y7-VD_7rxDiIVokuMaA": {
     "name": "Unknown Server",
+    "players": 3,
     "hubs": [
       1
     ],
@@ -1075,7 +1084,7 @@
   },
   "p445nXMajcu5bB6dfw6cBE50RFVAL-ivIe219JL8RFE": {
     "name": "Unknown Server",
-    "players": 1,
+    "players": 2,
     "hubs": [
       1
     ],
@@ -1098,7 +1107,7 @@
   },
   "pDWWprxv1g_4OqRzE7zAFVx1YvlkRW-RYBPajRExrwU": {
     "name": "Byrd Station",
-    "players": 36,
+    "players": 22,
     "hubs": [
       1
     ],
@@ -1106,7 +1115,7 @@
   },
   "pZOPu8cJhsiH9IhB3JLuksPXRzG7NXj_288h94RfG4I": {
     "name": "Unknown Server",
-    "players": 1,
+    "players": 9,
     "hubs": [
       1
     ],
@@ -1124,7 +1133,7 @@
     "name": "Frontier - Maunder",
     "address": "ss14://maunder.frontierstation14.com:1212",
     "connect": true,
-    "players": 11,
+    "players": 6,
     "hubs": [
       1
     ],
@@ -1132,7 +1141,7 @@
   },
   "r2-Oi5FMkKCehkXjSL4pvimKm4v1nye2oRWSgUOj4IQ": {
     "name": "Unknown Server",
-    "players": 4,
+    "players": 6,
     "hubs": [
       1,
       2
@@ -1143,7 +1152,7 @@
     "name": "Corvax - Goob",
     "address": "ss14s://game1.station14.ru:443/void/server",
     "connect": true,
-    "players": 20,
+    "players": 46,
     "hubs": [
       1
     ],
@@ -1151,6 +1160,7 @@
   },
   "rbO6PCsy2bF5UBi3PQjdQJ3GGcVy87Lb-fw4X__RqUk": {
     "name": "Unknown Server",
+    "players": 7,
     "hubs": [
       1
     ],
@@ -1158,7 +1168,7 @@
   },
   "rl25RJwTPM2GKmN4ZdU2EVvKD-6Jnf5ALKMPkA4KA_8": {
     "name": "Unknown Server",
-    "players": 18,
+    "players": 28,
     "hubs": [
       1
     ],
@@ -1166,6 +1176,7 @@
   },
   "rtaVvQu_53S4T24a_73VS0QebTAKvneCvx2O6b_K66A": {
     "name": "Unknown Server",
+    "players": 1,
     "hubs": [
       1
     ],
@@ -1187,7 +1198,7 @@
   },
   "t3EL_ZyxSExYW60Cq4nsN3WSLoZ_M41YgPoUqJ642hk": {
     "name": "StarHorizon Frontier",
-    "players": 7,
+    "players": 11,
     "hubs": [
       1
     ],
@@ -1209,7 +1220,7 @@
   },
   "tfihpJXqsJstgolgDMScxQwb_-MybZ_LVRoYeVDZJT0": {
     "name": "Unknown Server",
-    "players": 9,
+    "players": 26,
     "hubs": [
       1
     ],
@@ -1224,6 +1235,7 @@
   },
   "u1nnHhwCtMHpXOBQjie1Xcw7oxGLncwF0OlLPgdBGzk": {
     "name": "Unknown Server",
+    "players": 3,
     "hubs": [
       1
     ],
@@ -1231,7 +1243,7 @@
   },
   "uC1tpz0S2B9AjFZdGi4TRjOBnMQdgVazDlpRv0cSkag": {
     "name": "Unknown Server",
-    "players": 69,
+    "players": 110,
     "hubs": [
       1
     ],
@@ -1239,7 +1251,7 @@
   },
   "uWwXX-SNIvBOMA7ykoMX2L3x0HMH-xHuRptddhz8MVs": {
     "name": "Space Stories Marine Corps - Flux",
-    "players": 6,
+    "players": 23,
     "hubs": [
       1
     ],
@@ -1256,7 +1268,7 @@
     "name": "Goob - Alpha",
     "address": "ss14s://alpha.goobstation.com:443",
     "connect": true,
-    "players": 55,
+    "players": 53,
     "hubs": [
       1
     ],
@@ -1271,7 +1283,7 @@
   },
   "va_uqtGAaPOVFeZ4epfSklUZdig1HDR33EB-YjK0X3s": {
     "name": "Unknown Server",
-    "players": 1,
+    "players": 12,
     "hubs": [
       1
     ],
@@ -1287,6 +1299,7 @@
   },
   "xPUbbz_bLW5l1bLj7se62D7h49C2A_af_bZ1HvT0zjM": {
     "name": "Unknown Server",
+    "players": 1,
     "hubs": [
       1
     ],
@@ -1296,7 +1309,7 @@
     "name": "Rouny's Marine Corps - Alamo",
     "address": "ss14://104.243.34.95:1212",
     "connect": true,
-    "players": 149,
+    "players": 146,
     "hubs": [
       1
     ],
@@ -1304,7 +1317,7 @@
   },
   "xohvx-BnkUusZfoeAR7P60XgU8F0F2xwgvFnQG5E9Do": {
     "name": "Corvax - FALLOUT",
-    "players": 9,
+    "players": 29,
     "hubs": [
       1
     ],
@@ -1349,7 +1362,7 @@
     "name": "Frontier - Hypatia",
     "address": "ss14://hypatia.frontierstation14.com:1212",
     "connect": true,
-    "players": 35,
+    "players": 16,
     "hubs": [
       1
     ],
@@ -1364,7 +1377,7 @@
   },
   "zfj1AYEyQZfZH4w8mIfvPEJI1E1T5cPJLXXmyWlUe-4": {
     "name": "Euphoria Station",
-    "players": 63,
+    "players": 57,
     "hubs": [
       1
     ],
