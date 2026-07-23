@@ -1,7 +1,7 @@
 {
   "name": "Unknown Server",
-  "players": 0,
-  "soft_max_players": 40,
+  "players": 8,
+  "soft_max_players": 50,
   "hubs": [
     1
   ],
