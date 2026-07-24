@@ -1,148 +1,154 @@
 hubs:
-  - id: 1
-    name: Space Station 14
-    url: https://hub.playss14.com/api/servers
-    color: blue
-  - id: 2
-    name: Space Station Beyond
-    url: https://hub.simplestation.org/api/servers
-    color: red
-  - id: 3
-    name: Space Station Multiverse
-    url: https://cdn.spacestationmultiverse.com/hub/api/servers
-    color: purple
+    - id: 1
+      name: Space Station 14
+      url: https://hub.playss14.com/api/servers
+      color: blue
+    - id: 2
+      name: Space Station Beyond
+      url: https://hub.simplestation.org/api/servers
+      color: red
+    - id: 3
+      name: Space Station Multiverse
+      url: https://cdn.spacestationmultiverse.com/hub/api/servers
+      color: purple
 servers:
-  - name: Afterlight
-    addresses:
-      - ss14://158.69.54.224:1212/
-  - name: Boomerstation
-    addresses:
-      - ss14://ss14.monkestation.com
-    connect: true
-  - name: Byrd Station
-    addresses:
-      - ss14s://byrdstation.space
-  - name: Colonial Marine Corps
-    addresses:
-      - ss14s://corvaxcm.space/marines
-  - name: Corvax - FALLOUT
-    addresses:
-      - ss14s://corvaxforge.ru/server/fallout/
-  - name: Corvax - Frontier
-    addresses:
-      - ss14s://corvaxforge.ru/server/frontier
-  - name: Corvax - Вега
-    addresses:
-      - ss14s://game1.station14.ru/wega-main/server
-  - name: Corvax - Goob
-    addresses:
-      - ss14s://game1.station14.ru/void/server
-    connect: true
-  - name: Delta-v - Apoapsis
-    addresses:
-      - ss14s://apoapsis.deltav.gay
-    connect: true
-  - name: Delta-v - Periapsis
-    addresses:
-      - ss14s://periapsis.deltav.gay
-    connect: true
-  - name: Euphoria Station
-    addresses:
-      - ss14://euphoria.game-server.cc
-  - name: Frontier - Hypatia
-    addresses:
-      - ss14://hypatia.frontierstation14.com:1212
-    connect: true
-  - name: Frontier - Maunder
-    addresses:
-      - ss14://maunder.frontierstation14.com:1212
-    connect: true
-  - name: Funky Station - Cirno
-    addresses:
-      - ss14://play.funkystation.org
-  - name: Funky Station - Yoshika
-    addresses:
-      - ss14://play.funkystation.org:1217
-  - name: Goob - Alpha
-    addresses:
-      - ss14s://alpha.goobstation.com
-    connect: true
-  - name: Goob - Basileus
-    addresses:
-      - ss14s://omega.goobstation.com
-    connect: true
-  - name: Goob - Sigma
-    addresses:
-      - ss14s://sigma.goobstation.com
-    connect: true
-  - name: Harmony
-    addresses:
-      - ss14://harmony.harmony14.com:1212
-  - name: 'Misfits: Nuclear Wasteland 2296'
-    addresses:
-      - ss14://play.misfitsystems.net
-  - name: Monolith Babel
-    addresses:
-      - ss14://ceres.atmosia.org
-  - name: Omu - Magpie
-    addresses:
-      - ss14s://magpie.projectomu.org
-  - name: Omu - Pelican
-    addresses:
-      - ss14s://pelican.projectomu.org
-  - name: R.O.N. Station
-    addresses:
-      - ss14://node11.hexacluster.me:27001
-  - name: RatBite Station
-    addresses:
-      - ss14://136.243.32.120:25507
-  - name: Rouny's Marine Corps - Alamo
-    addresses:
-      - ss14://104.243.34.95:1212
-    connect: true
-  - name: Rouny's Marine Corps - Normandy
-    addresses:
-      - ss14://104.243.34.95:1213
-  - name: Space Stories Marine Corps - Core
-    addresses:
-      - ss14s://spacestories.club/core
-  - name: Space Stories Marine Corps - Flux
-    addresses:
-      - ss14s://spacestories.club/flux
-  - name: StarHorizon Frontier
-    addresses:
-      - ss14://ss14.starhorizon.ru:1212
-  - name: Starlight - Alpha
-    addresses:
-      - ss14://starlight.network:31201
-    connect: true
-  - name: Starlight - Beta
-    addresses:
-      - ss14://starlight.network:31202
-    connect: true
-  - name: Starlight - Gamma
-    addresses:
-      - ss14://starlight.network:31206
-    connect: true
-  - name: TraumaStation
-    addresses:
-      - ss14s://server.traumastation.com
-  - name: Wizard's Den - Leviathan
-    addresses:
-      - ss14s://leviathan.spacestation14.com
-      - ss14s://leviathan.spacestation14.com/server
-    connect: true
-  - name: Wizard's Den - Lizard
-    addresses:
-      - ss14s://lizard.spacestation14.com
-    connect: true
-  - name: Wizard's Den - Raptor
-    addresses:
-      - ss14://152.53.83.10:1212/
-    connect: true
-  - name: Wizard's Den - Salamander
-    addresses:
-      - ss14s://salamander.spacestation14.com
-    connect: true
+    - name: Afterlight
+      addresses:
+        - ss14://158.69.54.224:1212
+    - name: Boomerstation
+      addresses:
+        - ss14://ss14.monkestation.com:1212
+      connect: true
+    - name: Byrd Station
+      addresses:
+        - ss14s://byrdstation.space:443
+    - name: Colonial Marine Corps
+      addresses:
+        - ss14s://corvaxcm.space:443/marines
+    - name: Corvax - FALLOUT
+      addresses:
+        - ss14s://corvaxforge.ru:443/server/fallout
+    - name: Corvax - Frontier
+      addresses:
+        - ss14s://corvaxforge.ru:443/server/frontier
+    - name: Corvax - Вега
+      addresses:
+        - ss14s://game1.station14.ru:443/wega-main/server
+    - name: Corvax - Goob
+      addresses:
+        - ss14s://game1.station14.ru:443/void/server
+      connect: true
+    - name: Delta-v - Apoapsis
+      addresses:
+        - ss14s://apoapsis.deltav.gay:443
+      connect: true
+    - name: Delta-v - Periapsis
+      addresses:
+        - ss14s://periapsis.deltav.gay:443
+      connect: true
+    - name: Euphoria Station
+      addresses:
+        - ss14://euphoria.game-server.cc:1212
+    - name: Frontier - Hypatia
+      addresses:
+        - ss14://hypatia.frontierstation14.com:1212
+      connect: true
+    - name: Frontier - Maunder
+      addresses:
+        - ss14://maunder.frontierstation14.com:1212
+      connect: true
+    - name: Funky Station - Cirno
+      addresses:
+        - ss14://play.funkystation.org:1212
+    - name: Funky Station - Yoshika
+      addresses:
+        - ss14://play.funkystation.org:1217
+    - name: Goob - Alpha
+      addresses:
+        - ss14s://alpha.goobstation.com:443
+      connect: true
+    - name: Goob - Basileus
+      addresses:
+        - ss14s://omega.goobstation.com:443
+      connect: true
+    - name: Goob - Sigma
+      addresses:
+        - ss14s://sigma.goobstation.com:443
+      connect: true
+    - name: Hardlight Sector
+      addresses:
+        - ss14://game.hardlight.space:1212
+    - name: Harmony
+      addresses:
+        - ss14://harmony.harmony14.com:1212
+    - name: 'Misfits: Nuclear Wasteland 2296'
+      addresses:
+        - ss14://play.misfitsystems.net:1212
+    - name: Monolith Babel
+      addresses:
+        - ss14://ceres.atmosia.org:1212
+    - name: Omu - Magpie
+      addresses:
+        - ss14s://magpie.projectomu.org:443
+    - name: Omu - Pelican
+      addresses:
+        - ss14s://pelican.projectomu.org:443
+    - name: R.O.N. Station
+      addresses:
+        - ss14://node11.hexacluster.me:27001
+    - name: RatBite Station
+      addresses:
+        - ss14://136.243.32.120:25507
+    - name: Rouny's Marine Corps - Alamo
+      addresses:
+        - ss14://104.243.34.95:1212
+      connect: true
+    - name: Rouny's Marine Corps - Normandy
+      addresses:
+        - ss14://104.243.34.95:1213
+    - name: Space Stories Marine Corps - Core
+      addresses:
+        - ss14s://spacestories.club:443/core
+    - name: Space Stories Marine Corps - Flux
+      addresses:
+        - ss14s://spacestories.club:443/flux
+    - name: StarHorizon Frontier
+      addresses:
+        - ss14://ss14.starhorizon.ru:1212
+    - name: Starlight - Alpha
+      addresses:
+        - ss14://starlight.network:31201
+      connect: true
+    - name: Starlight - Beta
+      addresses:
+        - ss14://starlight.network:31202
+      connect: true
+    - name: Starlight - Gamma
+      addresses:
+        - ss14://starlight.network:31206
+      connect: true
+    - name: TraumaStation
+      addresses:
+        - ss14s://server.traumastation.com:443
+    - name: Triad Sector
+      addresses:
+        - ss14://167.114.208.59:1212
+    - name: Wizard's Den - Leviathan
+      addresses:
+        - ss14s://leviathan.spacestation14.com:443
+        - ss14s://leviathan.spacestation14.com:443/server
+      connect: true
+    - name: Wizard's Den - Lizard
+      addresses:
+        - ss14s://lizard.spacestation14.com:443
+      connect: true
+    - name: Wizard's Den - Raptor
+      addresses:
+        - ss14://152.53.83.10:1212
+      connect: true
+    - name: Wizard's Den - Salamander
+      addresses:
+        - ss14s://salamander.spacestation14.com:443
+      connect: true
 default_server_name: Unknown Server
 footer: Powered by Chief-Engineer alts. Backed by a production grade database.
