@@ -1,11 +1,11 @@
 {
   "name": "Goob - Basileus",
-  "players": 31,
+  "players": 21,
   "soft_max_players": 85,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-07-24T06:32:34Z",
-  "fetched_at": "2026-07-24T06:32:34Z"
+  "last_online": "2026-07-24T09:26:15Z",
+  "fetched_at": "2026-07-24T09:26:15Z"
 }
