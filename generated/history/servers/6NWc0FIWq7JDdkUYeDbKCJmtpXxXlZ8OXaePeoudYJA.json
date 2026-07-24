@@ -1,5 +1,5 @@
 {
-  "name": "Unknown Server",
+  "name": "Hardlight Sector",
   "entries": [
     {
       "players": 96,
@@ -127,6 +127,16 @@
       ],
       "online": true,
       "fetched_at": "2026-07-24T03:55:46Z"
+    },
+    {
+      "players": 118,
+      "soft_max_players": 150,
+      "hubs": [
+        1,
+        2
+      ],
+      "online": true,
+      "fetched_at": "2026-07-24T05:31:49Z"
     }
   ]
 }
