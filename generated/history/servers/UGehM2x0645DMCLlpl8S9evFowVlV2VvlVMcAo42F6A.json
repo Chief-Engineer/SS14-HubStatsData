@@ -83,6 +83,13 @@
       "hubs": [],
       "online": false,
       "fetched_at": "2026-07-23T22:33:42Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-07-24T00:06:02Z"
     }
   ]
 }
