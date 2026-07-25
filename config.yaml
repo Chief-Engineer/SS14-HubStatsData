@@ -38,6 +38,9 @@ servers:
       addresses:
         - ss14s://game1.station14.ru:443/void/server
       connect: true
+    - name: Cosmatic Drift
+      addresses:
+        - ss14://cosmaticdrift.net:25501
     - name: Delta-v - Apoapsis
       addresses:
         - ss14s://apoapsis.deltav.gay:443
