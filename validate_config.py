@@ -3,11 +3,49 @@
 from __future__ import annotations
 
 import argparse
+import re
 import sys
 from pathlib import Path
 from typing import Any
+from urllib.parse import urlparse
 
 import yaml
+
+DEFAULT_PORTS = {
+    "ss14": "1212",
+    "ss14s": "443",
+}
+
+
+def normalize_address(address: str) -> str | None:
+    """Normalize a server address for consistent comparison and hashing.
+
+    Returns the normalized address string, or None if the address is invalid.
+    """
+    try:
+        parsed = urlparse(address)
+    except ValueError:
+        return None
+
+    scheme = parsed.scheme.lower()
+    if scheme not in DEFAULT_PORTS:
+        return None
+
+    host = parsed.hostname
+    if not host:
+        return None
+    host = host.lower()
+
+    port = parsed.port
+    if port is None:
+        port = int(DEFAULT_PORTS[scheme])
+
+    is_ipv6 = ":" in host
+    host_part = f"[{host}]:{port}" if is_ipv6 else f"{host}:{port}"
+
+    path = parsed.path[:-1] if parsed.path.endswith("/") else parsed.path
+
+    return f"{scheme}://{host_part}{path}"
 
 
 def validate_hub(raw: Any, index: int) -> list[str]:
@@ -76,6 +114,16 @@ def validate_server(raw: Any, index: int) -> list[str]:
                     errors.append(
                         f"{prefix}.addresses[{i}]: expected string, got {type(addr).__name__}"
                     )
+                elif addr.startswith("$"):
+                    env_name = addr[1:]
+                    if not env_name:
+                        errors.append(
+                            f"{prefix}.addresses[{i}]: $ prefix requires an environment variable name"
+                        )
+                    elif not re.match(r'^[A-Za-z_][A-Za-z0-9_]*$', env_name):
+                        errors.append(
+                            f"{prefix}.addresses[{i}]: invalid environment variable name {env_name!r}"
+                        )
                 elif not addr.startswith(("ss14://", "ss14s://")):
                     errors.append(
                         f"{prefix}.addresses[{i}]: must start with 'ss14://' or 'ss14s://'"
@@ -164,12 +212,15 @@ def check_duplicates(raw: dict[str, Any]) -> list[str]:
                 for addr in addresses:
                     if not isinstance(addr, str):
                         continue
-                    if addr in addrs:
+                    normalized = normalize_address(addr)
+                    if normalized is None:
+                        continue
+                    if normalized in addrs:
                         errors.append(
-                            f"duplicate server address '{addr}' (servers[{addrs[addr]}] and servers[{i}])"
+                            f"duplicate server address '{addr}' (servers[{addrs[normalized]}] and servers[{i}])"
                         )
                     else:
-                        addrs[addr] = i
+                        addrs[normalized] = i
 
     return errors
 
