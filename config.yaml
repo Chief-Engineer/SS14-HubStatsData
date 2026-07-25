@@ -87,6 +87,9 @@ servers:
     - name: 'Misfits: Nuclear Wasteland 2296'
       addresses:
         - ss14://play.misfitsystems.net:1212
+    - name: Moffstation
+      addresses:
+        - $MOFFSTATION_ADDRESS
     - name: Monolith Babel
       addresses:
         - ss14://ceres.atmosia.org:1212
