@@ -66,7 +66,7 @@
     },
     "5dVqbyV4VIS9rAy2nQO4he55-nmOd757b_sXdweIX4I": {
       "name": "R.O.N. Station",
-      "players": 5,
+      "players": 2,
       "hubs": [
         1
       ],
@@ -91,7 +91,7 @@
     },
     "66fluP9yAOd_d34dFOC3H8_XWUeuD1Miz-FWZyTUeYo": {
       "name": "Omu - Pelican",
-      "players": 60,
+      "players": 61,
       "hubs": [
         1
       ],
@@ -272,7 +272,7 @@
     },
     "GQG_ncVcExpnqhIXmyNIdd-QcUwKhsUxVp_jAos9Exk": {
       "name": "Space Stories Marine Corps - Core",
-      "players": 171,
+      "players": 170,
       "hubs": [
         1
       ],
@@ -371,7 +371,7 @@
       "online": true
     },
     "N8m32ti2GkMu8tl0YOT_W0Oeh6elmNO6IG1U0xbrXos": {
-      "players": 8,
+      "players": 7,
       "hubs": [
         1
       ],
@@ -381,7 +381,7 @@
       "name": "Goob - Basileus",
       "address": "ss14s://omega.goobstation.com:443",
       "connect": true,
-      "players": 44,
+      "players": 45,
       "hubs": [
         1
       ],
@@ -453,7 +453,7 @@
       "online": true
     },
     "RG_7FnAXCQSIG8v8oQeUQDnAUAzuYVk34qhX7hIowKY": {
-      "players": 17,
+      "players": 18,
       "hubs": [
         1
       ],
@@ -510,7 +510,7 @@
       "online": true
     },
     "TxDMsIBY-v_TvvZ3YKTnB2DjOAhPkJz344-dQYGJnTs": {
-      "players": 8,
+      "players": 7,
       "hubs": [
         1
       ],
@@ -550,7 +550,7 @@
       "online": true
     },
     "VZ9g-z8Q88NlvXw-weky3zIEqjh4PTZC_Gjbi2PIYOQ": {
-      "players": 47,
+      "players": 46,
       "hubs": [
         1
       ],
@@ -587,7 +587,7 @@
     },
     "Y4wzmKn04c7oesNSKvmr0lfahXCW_AJdd4RWQwpioNg": {
       "name": "Monolith Babel",
-      "players": 37,
+      "players": 40,
       "hubs": [
         1
       ],
@@ -718,7 +718,7 @@
       "online": true
     },
     "d2EwzJDQyECVsB1DEZ-H7uxC0riF_UvTvC8eWoNXlwY": {
-      "players": 79,
+      "players": 78,
       "hubs": [
         1
       ],
@@ -773,7 +773,7 @@
       "online": true
     },
     "ekEIM9wiv4iEUh17zBDnrGPpvDhp3g1bKXO9apG4heU": {
-      "players": 34,
+      "players": 35,
       "hubs": [
         1
       ],
@@ -801,7 +801,7 @@
       "name": "Starlight - Beta",
       "address": "ss14://starlight.network:31202",
       "connect": true,
-      "players": 33,
+      "players": 32,
       "hubs": [
         1
       ],
@@ -888,14 +888,14 @@
       "online": true
     },
     "jYUQrkFyHF88BcuvxXyRehXI9vhAqQa8pZ-kWI92noY": {
-      "players": 73,
+      "players": 72,
       "hubs": [
         1
       ],
       "online": true
     },
     "jeqmRuwNg3hQT07cMEAgVOcaY4Z_TnnjVQEvzHZSyIo": {
-      "players": 25,
+      "players": 26,
       "hubs": [
         1
       ],
@@ -935,7 +935,7 @@
     },
     "kyRtj80QuGNRqbC4gN-om59ifbolhVdfb4ygZ19N1NM": {
       "name": "Colonial Marine Corps",
-      "players": 25,
+      "players": 26,
       "hubs": [
         1
       ],
@@ -965,7 +965,7 @@
       "online": true
     },
     "lqfMKqdorkGVl-p2Ud8HS6g_waB3pbbDnHkOYWpSc5U": {
-      "players": 34,
+      "players": 35,
       "hubs": [
         1
       ],
@@ -980,7 +980,7 @@
       "online": true
     },
     "mCFfgk2p3iOZxXye2XnTfmeMVknIOhxJdPmvLx6LJjM": {
-      "players": 61,
+      "players": 63,
       "hubs": [
         1
       ],
@@ -1069,7 +1069,7 @@
       "online": true
     },
     "r2-Oi5FMkKCehkXjSL4pvimKm4v1nye2oRWSgUOj4IQ": {
-      "players": 16,
+      "players": 15,
       "hubs": [
         1,
         2
@@ -1184,7 +1184,7 @@
       "name": "Goob - Alpha",
       "address": "ss14s://alpha.goobstation.com:443",
       "connect": true,
-      "players": 78,
+      "players": 77,
       "hubs": [
         1
       ],
@@ -1274,7 +1274,7 @@
       "name": "Frontier - Hypatia",
       "address": "ss14://hypatia.frontierstation14.com:1212",
       "connect": true,
-      "players": 16,
+      "players": 15,
       "hubs": [
         1
       ],
@@ -1288,7 +1288,7 @@
     },
     "zfj1AYEyQZfZH4w8mIfvPEJI1E1T5cPJLXXmyWlUe-4": {
       "name": "Euphoria Station",
-      "players": 27,
+      "players": 28,
       "hubs": [
         1
       ],
@@ -1304,6 +1304,7 @@
       "online": true
     },
     "zrgVv6qm5-bxJSoMvrFuRPHO69koT1I-vixbO6P_muk": {
+      "players": 1,
       "hubs": [
         1,
         2
@@ -1311,5 +1312,5 @@
       "online": true
     }
   },
-  "fetched_at": "2026-07-25T12:05:14Z"
+  "fetched_at": "2026-07-25T12:06:22Z"
 }
