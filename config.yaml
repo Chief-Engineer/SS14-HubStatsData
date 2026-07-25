@@ -15,6 +15,9 @@ servers:
     - name: Afterlight
       addresses:
         - ss14://158.69.54.224:1212
+    - name: Aurora's Song
+      addresses:
+        - $AURORASONG_ADDRESS
     - name: Boomerstation
       addresses:
         - ss14://ss14.monkestation.com:1212
