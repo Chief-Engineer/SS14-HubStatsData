@@ -320,6 +320,46 @@
       ],
       "online": true,
       "fetched_at": "2026-07-25T11:31:30Z"
+    },
+    {
+      "players": 15,
+      "soft_max_players": 100,
+      "hubs": [
+        1,
+        2
+      ],
+      "online": true,
+      "fetched_at": "2026-07-25T12:00:48Z"
+    },
+    {
+      "players": 16,
+      "soft_max_players": 100,
+      "hubs": [
+        1,
+        2
+      ],
+      "online": true,
+      "fetched_at": "2026-07-25T12:05:14Z"
+    },
+    {
+      "players": 15,
+      "soft_max_players": 100,
+      "hubs": [
+        1,
+        2
+      ],
+      "online": true,
+      "fetched_at": "2026-07-25T12:06:22Z"
+    },
+    {
+      "players": 13,
+      "soft_max_players": 100,
+      "hubs": [
+        1,
+        2
+      ],
+      "online": true,
+      "fetched_at": "2026-07-25T12:47:53Z"
     }
   ]
 }
