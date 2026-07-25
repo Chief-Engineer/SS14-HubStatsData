@@ -60,6 +60,7 @@ jobs:
 
       - name: Fetch data
         env:
+          AURORASONG_ADDRESS: ${{ secrets.AURORASONG_ADDRESS }}
           MOFFSTATION_ADDRESS: ${{ secrets.MOFFSTATION_ADDRESS }}
         run: ./ss14-hub-stats update
 
@@ -73,11 +74,13 @@ jobs:
 
       - name: Generate history
         env:
+          AURORASONG_ADDRESS: ${{ secrets.AURORASONG_ADDRESS }}
           MOFFSTATION_ADDRESS: ${{ secrets.MOFFSTATION_ADDRESS }}
         run: ./ss14-hub-stats generate-history --data-dir . --output-dir ./generated --config config.yaml
 
       - name: Update site
         env:
+          AURORASONG_ADDRESS: ${{ secrets.AURORASONG_ADDRESS }}
           MOFFSTATION_ADDRESS: ${{ secrets.MOFFSTATION_ADDRESS }}
         run: ./ss14-hub-stats update-site --dir .
 
