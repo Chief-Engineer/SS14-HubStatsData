@@ -1,0 +1,12 @@
+{
+  "name": "Aurora's Song",
+  "entries": [
+    {
+      "players": 21,
+      "soft_max_players": 100,
+      "hubs": [],
+      "online": true,
+      "fetched_at": "2026-07-25T13:21:11Z"
+    }
+  ]
+}
