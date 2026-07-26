@@ -1,11 +1,11 @@
 {
   "name": "R.O.N. Station",
-  "players": 7,
+  "players": 9,
   "soft_max_players": 256,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-07-26T20:29:44Z",
-  "fetched_at": "2026-07-26T20:29:44Z"
+  "last_online": "2026-07-26T21:30:56Z",
+  "fetched_at": "2026-07-26T21:30:56Z"
 }
