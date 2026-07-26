@@ -1,6 +1,7 @@
 name: Add Hub
 description: Request to add a new hub
 title: "New Hub: "
+labels: ["Hub"]
 body:
   - type: input
     id: hub-name
