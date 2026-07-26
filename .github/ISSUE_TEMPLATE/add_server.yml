@@ -1,6 +1,7 @@
 name: Add Server
 description: Request to add a new server
 title: "Add Server: "
+labels: ["Server"]
 body:
   - type: input
     id: server-name
