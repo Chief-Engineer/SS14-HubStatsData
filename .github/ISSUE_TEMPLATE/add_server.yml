@@ -1,0 +1,37 @@
+name: Add Server
+description: Request to add a new server
+title: "Add Server: "
+body:
+  - type: input
+    id: server-name
+    attributes:
+      label: Server Name
+      description: The name of the server (must be in English)
+    validations:
+      required: true
+  - type: input
+    id: server-address
+    attributes:
+      label: Server Address
+      description: The server address (must use ss14:// or ss14s:// scheme)
+      placeholder: "ss14://example.com:1234"
+    validations:
+      required: true
+  - type: input
+    id: relation
+    attributes:
+      label: Relation to Server
+      description: "How are you related to the server? (Player, maintainer, admin, host, etc.)"
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: The server name is in English
+          required: true
+        - label: The address uses the correct scheme (ss14:// or ss14s://)
+          required: true
+        - label: The server address has been tested to be correct
+          required: true

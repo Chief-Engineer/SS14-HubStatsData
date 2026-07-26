@@ -1,0 +1,44 @@
+name: Add Hub
+description: Request to add a new hub
+title: "New Hub: "
+body:
+  - type: input
+    id: hub-name
+    attributes:
+      label: Hub Name
+      description: The name of the hub (must be in English)
+    validations:
+      required: true
+  - type: input
+    id: hub-url
+    attributes:
+      label: Hub API URL
+      description: The URL to the hub's /api/servers endpoint
+      placeholder: "https://example.com/api/servers"
+    validations:
+      required: true
+  - type: input
+    id: relation
+    attributes:
+      label: Relation to Hub
+      description: How are you related to the hub?
+    validations:
+      required: true
+  - type: textarea
+    id: longevity
+    attributes:
+      label: Longevity
+      description: |
+        - How long has the hub been running?
+        - Who is the hub maintained by?
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: The hub name is in English
+          required: true
+        - label: The hub URL has been tested to be correct
+          required: true
