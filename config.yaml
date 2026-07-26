@@ -159,5 +159,9 @@ servers:
       addresses:
         - ss14s://salamander.spacestation14.com:443
       connect: true
+    - name: Wizard's Den - Vulture
+      addresses:
+        - ss14s://vulture.spacestation14.com:443
+      connect: true
 default_server_name: Unknown Server
 footer: Powered by Chief-Engineer alts. Backed by a production grade database.
