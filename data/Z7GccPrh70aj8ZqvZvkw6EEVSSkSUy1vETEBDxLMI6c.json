@@ -1,9 +1,9 @@
 {
   "name": "Aurora's Song",
-  "players": 15,
+  "players": 19,
   "soft_max_players": 100,
   "hubs": [],
   "online": true,
-  "last_online": "2026-07-27T11:52:07Z",
-  "fetched_at": "2026-07-27T11:52:07Z"
+  "last_online": "2026-07-27T14:40:01Z",
+  "fetched_at": "2026-07-27T14:40:01Z"
 }
