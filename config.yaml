@@ -87,6 +87,9 @@ servers:
     - name: Harmony
       addresses:
         - ss14://harmony.harmony14.com:1212
+    - name: Jamboree
+      addresses:
+        - ss14://mrp.jamboree.lol
     - name: 'Misfits: Nuclear Wasteland 2296'
       addresses:
         - ss14://play.misfitsystems.net:1212
@@ -118,6 +121,9 @@ servers:
     - name: Space Stories Marine Corps - Core
       addresses:
         - ss14s://spacestories.club:443/core
+    - name: Sandwich Station
+      addresses:
+        - ss14://station.sandwich14.com
     - name: Space Stories Marine Corps - Flux
       addresses:
         - ss14s://spacestories.club:443/flux
@@ -142,6 +148,9 @@ servers:
     - name: Triad Sector
       addresses:
         - ss14://167.114.208.59:1212
+    - name: Trieste Port
+      addresses:
+        - ss14://starlight.network:31301
     - name: Wizard's Den - Leviathan
       addresses:
         - ss14s://leviathan.spacestation14.com:443
