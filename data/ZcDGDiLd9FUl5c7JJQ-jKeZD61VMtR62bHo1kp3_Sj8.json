@@ -1,7 +1,7 @@
 {
-  "name": "Colonial Marine Corps",
-  "players": 0,
-  "soft_max_players": 250,
+  "name": "Unknown Server",
+  "players": 218,
+  "soft_max_players": 350,
   "hubs": [
     1
   ],
