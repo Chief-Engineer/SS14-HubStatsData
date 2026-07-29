@@ -1,5 +1,5 @@
 {
-  "name": "Rouny's Marine Corps - Alamo",
+  "name": "Unknown Server",
   "entries": [
     {
       "players": 151,
@@ -745,6 +745,15 @@
       "hubs": [],
       "online": false,
       "fetched_at": "2026-07-29T00:57:35Z"
+    },
+    {
+      "players": 231,
+      "soft_max_players": 350,
+      "hubs": [
+        1
+      ],
+      "online": true,
+      "fetched_at": "2026-07-29T04:18:28Z"
     }
   ]
 }
