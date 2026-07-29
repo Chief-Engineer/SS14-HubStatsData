@@ -113,7 +113,7 @@ servers:
         - ss14://136.243.32.120:25507
     - name: Rouny's Marine Corps - Alamo
       addresses:
-        - ss14://104.243.34.95:1212
+        - ss14s://alamo.rouny-ss14.com
       connect: true
     - name: Rouny's Marine Corps - Normandy
       addresses:
