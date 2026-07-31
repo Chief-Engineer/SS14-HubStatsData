@@ -1,11 +1,11 @@
 {
   "name": "Space Stories Marine Corps - Core",
-  "players": 181,
+  "players": 189,
   "soft_max_players": 200,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-07-31T17:40:14Z",
-  "fetched_at": "2026-07-31T17:40:14Z"
+  "last_online": "2026-07-31T19:34:10Z",
+  "fetched_at": "2026-07-31T19:34:10Z"
 }
