@@ -1,7 +1,7 @@
 {
-  "name": "Funky Station - Yoshika",
-  "players": 0,
-  "soft_max_players": 55,
+  "name": "Unknown Server",
+  "players": 1,
+  "soft_max_players": 30,
   "hubs": [
     1
   ],
