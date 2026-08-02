@@ -128,6 +128,9 @@ servers:
     - name: Space Stories Marine Corps - Flux
       addresses:
         - ss14s://spacestories.club:443/flux
+    - name: Spellward - Soma
+      addresses:
+        - ss14://soma.spellward.net:1212/
     - name: StarHorizon Frontier
       addresses:
         - ss14://ss14.starhorizon.ru:1212
