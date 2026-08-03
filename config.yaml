@@ -25,9 +25,15 @@ servers:
     - name: Byrd Station
       addresses:
         - ss14s://byrdstation.space:443
+    - name: Carpmosia
+      addresses:
+        - ss14://play.carp.gg:28968
     - name: Colonial Marine Corps
       addresses:
         - ss14s://corvaxcm.space:443/marines
+    - name: Colonial Marines Universe
+      addresses:
+        - ss14s://cmu.cm-ss13.com
     - name: Corvax - FALLOUT
       addresses:
         - ss14s://corvaxforge.ru:443/server/fallout
@@ -87,6 +93,9 @@ servers:
     - name: Harmony
       addresses:
         - ss14://harmony.harmony14.com:1212
+    - name: Issy's
+      addresses:
+        - ss14://152.53.34.107:1212/
     - name: Jamboree
       addresses:
         - ss14://mrp.jamboree.lol
@@ -105,12 +114,21 @@ servers:
     - name: Omu - Pelican
       addresses:
         - ss14s://pelican.projectomu.org:443
+    - name: Persistence SS14 - Troy
+      addresses:
+        - ss14://148.113.213.150:1213/
+    - name: Persistence SS14 - Zenith
+      addresses:
+        - ss14://148.113.213.150:1212/
     - name: R.O.N. Station
       addresses:
         - ss14://node11.hexacluster.me:27001
     - name: RatBite Station
       addresses:
         - ss14://136.243.32.120:25507
+    - name: RatBite Station - Two
+      addresses:
+        - ss14://136.243.32.120:25503
     - name: Rouny's Marine Corps - Alamo
       addresses:
         - ss14s://alamo.rouny-ss14.com
@@ -131,6 +149,9 @@ servers:
     - name: Spellward - Soma
       addresses:
         - ss14://soma.spellward.net:1212/
+    - name: S.T.A.L.K.E.R. 14
+      addresses:
+        - ss14://67.164.250.249:1212
     - name: StarHorizon Frontier
       addresses:
         - ss14://ss14.starhorizon.ru:1212
@@ -142,9 +163,17 @@ servers:
       addresses:
         - ss14://starlight.network:31202
       connect: true
+    - name: Starlight - Delta
+      addresses:
+        - ss14://starlight.network:31204
+      connect: true
     - name: Starlight - Gamma
       addresses:
         - ss14://starlight.network:31206
+      connect: true
+    - name: Starlight - Epsilon
+      addresses:
+        - ss14://starlight.network:31203
       connect: true
     - name: TraumaStation
       addresses:
@@ -155,6 +184,9 @@ servers:
     - name: Trieste Port
       addresses:
         - ss14://starlight.network:31301
+    - name: Wayfarer
+      addresses:
+        - ss14://46.110.37.83:1212/
     - name: Wizard's Den - Leviathan
       addresses:
         - ss14s://leviathan.spacestation14.com:443
