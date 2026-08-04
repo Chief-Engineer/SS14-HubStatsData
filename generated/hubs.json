@@ -2,13 +2,13 @@
   "1": {
     "name": "Space Station 14",
     "color": "blue",
-    "players": 3640,
+    "players": 3311,
     "server_count": 175
   },
   "2": {
     "name": "Space Station Beyond",
     "color": "red",
-    "players": 151,
+    "players": 142,
     "server_count": 8
   },
   "3": {
