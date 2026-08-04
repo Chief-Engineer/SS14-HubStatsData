@@ -1,7 +1,7 @@
 {
-  "name": "Wizard's Den - Vulture",
-  "players": 1,
-  "soft_max_players": 67,
+  "name": "Unknown Server",
+  "players": 4,
+  "soft_max_players": 50,
   "hubs": [
     1
   ],
