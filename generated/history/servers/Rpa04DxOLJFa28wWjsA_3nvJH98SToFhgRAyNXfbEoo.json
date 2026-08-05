@@ -1,5 +1,5 @@
 {
-  "name": "Unknown Server",
+  "name": "Spellward - Soma",
   "entries": [
     {
       "players": 300,
@@ -18,6 +18,15 @@
       ],
       "online": true,
       "fetched_at": "2026-08-05T19:38:04Z"
+    },
+    {
+      "players": 286,
+      "soft_max_players": 200,
+      "hubs": [
+        1
+      ],
+      "online": true,
+      "fetched_at": "2026-08-05T21:12:17Z"
     }
   ]
 }
