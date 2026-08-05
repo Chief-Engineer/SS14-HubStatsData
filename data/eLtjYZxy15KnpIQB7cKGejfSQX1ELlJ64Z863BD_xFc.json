@@ -1,7 +1,7 @@
 {
-  "name": "Monolith Babel",
-  "players": 39,
-  "soft_max_players": 220,
+  "name": "Unknown Server",
+  "players": 8,
+  "soft_max_players": 60,
   "hubs": [
     1
   ],
