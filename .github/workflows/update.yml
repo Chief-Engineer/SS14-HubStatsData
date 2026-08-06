@@ -78,11 +78,16 @@ jobs:
           MOFFSTATION_ADDRESS: ${{ secrets.MOFFSTATION_ADDRESS }}
         run: ./ss14-hub-stats generate-history --data-dir . --output-dir ./generated --config config.yaml
 
+      - name: Set site URL
+        run: |
+          REPO="${GITHUB_REPOSITORY#*/}"
+          echo "SITE_URL=https://${GITHUB_REPOSITORY_OWNER}.github.io/${REPO}" >> "$GITHUB_ENV"
+
       - name: Update site
         env:
           AURORASONG_ADDRESS: ${{ secrets.AURORASONG_ADDRESS }}
           MOFFSTATION_ADDRESS: ${{ secrets.MOFFSTATION_ADDRESS }}
-        run: ./ss14-hub-stats update-site --dir .
+        run: ./ss14-hub-stats update-site --dir . --site-url "$SITE_URL"
 
       - name: Commit history
         run: |
