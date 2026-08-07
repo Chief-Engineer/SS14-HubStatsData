@@ -1928,6 +1928,16 @@
       ],
       "online": true,
       "fetched_at": "2026-08-07T17:56:31Z"
+    },
+    {
+      "players": 117,
+      "soft_max_players": 150,
+      "hubs": [
+        1,
+        2
+      ],
+      "online": true,
+      "fetched_at": "2026-08-07T19:01:49Z"
     }
   ]
 }
