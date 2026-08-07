@@ -1,11 +1,11 @@
 {
   "name": "Misfits: Nuclear Wasteland 2296",
-  "players": 32,
+  "players": 26,
   "soft_max_players": 200,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-07T08:16:33Z",
-  "fetched_at": "2026-08-07T08:16:33Z"
+  "last_online": "2026-08-07T09:33:17Z",
+  "fetched_at": "2026-08-07T09:33:17Z"
 }
