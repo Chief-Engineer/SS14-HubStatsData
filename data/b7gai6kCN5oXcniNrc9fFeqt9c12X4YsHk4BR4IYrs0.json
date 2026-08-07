@@ -1,11 +1,11 @@
 {
   "name": "Wizard's Den - Raptor",
-  "players": 1,
+  "players": 0,
   "soft_max_players": 80,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-07T21:12:21Z",
-  "fetched_at": "2026-08-07T21:12:21Z"
+  "last_online": "2026-08-07T22:07:37Z",
+  "fetched_at": "2026-08-07T22:07:37Z"
 }
