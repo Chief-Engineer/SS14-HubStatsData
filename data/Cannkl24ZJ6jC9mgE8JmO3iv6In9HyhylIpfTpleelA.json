@@ -1,11 +1,11 @@
 {
   "name": "Spellward - Therion",
-  "players": 66,
+  "players": 159,
   "soft_max_players": 300,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-07T17:56:31Z",
-  "fetched_at": "2026-08-07T17:56:31Z"
+  "last_online": "2026-08-07T19:01:49Z",
+  "fetched_at": "2026-08-07T19:01:49Z"
 }
