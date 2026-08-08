@@ -148,7 +148,7 @@ servers:
         - ss14s://spacestories.club:443/flux
     - name: Spellward - Soma
       addresses:
-        - ss14://soma.spellward.net:1213/
+        - ss14://soma.spellward.net:1212/
     - name: Spellward - Therion
       addresses:
         - ss14://therion.spellward.net:1220/
