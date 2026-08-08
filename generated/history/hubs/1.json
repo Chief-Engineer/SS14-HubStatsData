@@ -1005,6 +1005,11 @@
       "total_players": 2682,
       "server_count": 176,
       "fetched_at": "2026-08-08T02:11:29Z"
+    },
+    {
+      "total_players": 2667,
+      "server_count": 176,
+      "fetched_at": "2026-08-08T03:51:31Z"
     }
   ]
 }
