@@ -91,17 +91,13 @@ def validate_server(raw: Any, index: int) -> list[str]:
         errors.append(f"{prefix}: expected mapping, got {type(raw).__name__}")
         return errors
 
-    for field in ("name", "addresses"):
-        if field not in raw:
-            errors.append(f"{prefix}: missing required field '{field}'")
+    if "addresses" not in raw:
+        errors.append(f"{prefix}: missing required field 'addresses'")
 
     if "name" in raw and not isinstance(raw["name"], str):
         errors.append(
             f"{prefix}.name: expected string, got {type(raw['name']).__name__}"
         )
-
-    if "name" in raw and isinstance(raw["name"], str) and raw["name"] == "":
-        errors.append(f"{prefix}.name: must not be empty")
 
     if "addresses" in raw:
         if not isinstance(raw["addresses"], list):
