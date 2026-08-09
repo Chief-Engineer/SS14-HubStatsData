@@ -12,6 +12,8 @@ hubs:
       url: https://cdn.spacestationmultiverse.com/hub/api/servers
       color: purple
 servers:
+    - addresses:
+        - $ANON_ADDRESS
     - name: Afterlight
       addresses:
         - ss14://158.69.54.224:1212
