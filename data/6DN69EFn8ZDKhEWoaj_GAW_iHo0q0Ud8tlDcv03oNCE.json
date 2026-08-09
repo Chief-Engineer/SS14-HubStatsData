@@ -1,11 +1,11 @@
 {
   "name": "Corvax - Frontier",
-  "players": 26,
+  "players": 32,
   "soft_max_players": 130,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-09T08:46:14Z",
-  "fetched_at": "2026-08-09T08:46:14Z"
+  "last_online": "2026-08-09T09:41:46Z",
+  "fetched_at": "2026-08-09T09:41:46Z"
 }
