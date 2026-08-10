@@ -1,11 +1,11 @@
 {
   "name": "Triad Sector",
-  "players": 18,
+  "players": 20,
   "soft_max_players": 100,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-10T09:24:50Z",
-  "fetched_at": "2026-08-10T09:24:50Z"
+  "last_online": "2026-08-10T10:44:22Z",
+  "fetched_at": "2026-08-10T10:44:22Z"
 }
