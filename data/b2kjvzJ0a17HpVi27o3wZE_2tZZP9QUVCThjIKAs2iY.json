@@ -1,11 +1,11 @@
 {
   "name": "Afterlight",
-  "players": 20,
+  "players": 23,
   "soft_max_players": 80,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-10T10:44:22Z",
-  "fetched_at": "2026-08-10T10:44:22Z"
+  "last_online": "2026-08-10T11:48:55Z",
+  "fetched_at": "2026-08-10T11:48:55Z"
 }
