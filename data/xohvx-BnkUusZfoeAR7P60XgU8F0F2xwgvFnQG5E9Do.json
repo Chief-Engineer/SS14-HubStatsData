@@ -1,11 +1,11 @@
 {
   "name": "Corvax - FALLOUT",
-  "players": 27,
+  "players": 25,
   "soft_max_players": 120,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-10T13:12:27Z",
-  "fetched_at": "2026-08-10T13:12:27Z"
+  "last_online": "2026-08-10T14:37:26Z",
+  "fetched_at": "2026-08-10T14:37:26Z"
 }
