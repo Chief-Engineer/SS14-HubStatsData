@@ -1,11 +1,11 @@
 {
   "name": "Carpmosia",
-  "players": 12,
+  "players": 14,
   "soft_max_players": 99,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-12T09:14:35Z",
-  "fetched_at": "2026-08-12T09:14:35Z"
+  "last_online": "2026-08-12T10:35:59Z",
+  "fetched_at": "2026-08-12T10:35:59Z"
 }
