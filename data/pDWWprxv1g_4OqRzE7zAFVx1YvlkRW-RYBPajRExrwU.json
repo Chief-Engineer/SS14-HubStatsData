@@ -1,11 +1,11 @@
 {
   "name": "Byrd Station",
-  "players": 24,
+  "players": 17,
   "soft_max_players": 50,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-13T07:46:40Z",
-  "fetched_at": "2026-08-13T07:46:40Z"
+  "last_online": "2026-08-13T09:14:44Z",
+  "fetched_at": "2026-08-13T09:14:44Z"
 }
