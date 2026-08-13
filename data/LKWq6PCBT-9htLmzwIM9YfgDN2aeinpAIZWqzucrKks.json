@@ -1,11 +1,11 @@
 {
   "name": "Wizard's Den - Lizard",
-  "players": 76,
+  "players": 72,
   "soft_max_players": 80,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-13T20:46:26Z",
-  "fetched_at": "2026-08-13T20:46:26Z"
+  "last_online": "2026-08-13T21:48:20Z",
+  "fetched_at": "2026-08-13T21:48:20Z"
 }
