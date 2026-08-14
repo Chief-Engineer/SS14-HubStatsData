@@ -2480,6 +2480,13 @@
       "hubs": [],
       "online": false,
       "fetched_at": "2026-08-14T22:24:38Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-14T22:50:42Z"
     }
   ]
 }
