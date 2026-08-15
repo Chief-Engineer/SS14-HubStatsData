@@ -2015,6 +2015,15 @@
       ],
       "online": true,
       "fetched_at": "2026-08-15T15:46:58Z"
+    },
+    {
+      "players": 216,
+      "soft_max_players": 350,
+      "hubs": [
+        1
+      ],
+      "online": true,
+      "fetched_at": "2026-08-15T16:27:33Z"
     }
   ]
 }
