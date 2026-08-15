@@ -1,11 +1,11 @@
 {
   "name": "Unknown Server",
-  "players": 94,
+  "players": 93,
   "soft_max_players": 80,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-15T15:46:58Z",
-  "fetched_at": "2026-08-15T15:46:58Z"
+  "last_online": "2026-08-15T16:27:33Z",
+  "fetched_at": "2026-08-15T16:27:33Z"
 }
