@@ -2822,6 +2822,13 @@
       "hubs": [],
       "online": false,
       "fetched_at": "2026-08-15T11:21:51Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-15T11:45:29Z"
     }
   ]
 }
