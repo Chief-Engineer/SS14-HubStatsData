@@ -3555,6 +3555,15 @@
       ],
       "online": true,
       "fetched_at": "2026-08-16T17:20:32Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 120,
+      "hubs": [
+        2
+      ],
+      "online": true,
+      "fetched_at": "2026-08-16T17:46:07Z"
     }
   ]
 }
