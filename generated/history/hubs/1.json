@@ -2015,6 +2015,11 @@
       "total_players": 3660,
       "server_count": 186,
       "fetched_at": "2026-08-16T21:45:46Z"
+    },
+    {
+      "total_players": 3355,
+      "server_count": 186,
+      "fetched_at": "2026-08-16T22:22:22Z"
     }
   ]
 }
