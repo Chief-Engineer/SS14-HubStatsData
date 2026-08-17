@@ -1,11 +1,11 @@
 {
   "name": "Funky Station - Cirno",
-  "players": 50,
+  "players": 48,
   "soft_max_players": 90,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-17T11:53:23Z",
-  "fetched_at": "2026-08-17T11:53:23Z"
+  "last_online": "2026-08-17T12:47:30Z",
+  "fetched_at": "2026-08-17T12:47:30Z"
 }
