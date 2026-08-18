@@ -1,12 +1,12 @@
 {
   "name": "Hardlight Sector",
-  "players": 114,
+  "players": 124,
   "soft_max_players": 150,
   "hubs": [
     1,
     2
   ],
   "online": true,
-  "last_online": "2026-08-17T23:48:39Z",
-  "fetched_at": "2026-08-17T23:48:39Z"
+  "last_online": "2026-08-18T01:18:39Z",
+  "fetched_at": "2026-08-18T01:18:39Z"
 }
