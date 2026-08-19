@@ -1,11 +1,11 @@
 {
   "name": "Euphoria Station",
-  "players": 44,
+  "players": 48,
   "soft_max_players": 240,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-19T17:53:56Z",
-  "fetched_at": "2026-08-19T17:53:56Z"
+  "last_online": "2026-08-19T18:38:29Z",
+  "fetched_at": "2026-08-19T18:38:29Z"
 }
