@@ -1,11 +1,11 @@
 {
   "name": "Monolith Babel",
-  "players": 13,
+  "players": 12,
   "soft_max_players": 220,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-20T08:40:50Z",
-  "fetched_at": "2026-08-20T08:40:50Z"
+  "last_online": "2026-08-20T09:36:48Z",
+  "fetched_at": "2026-08-20T09:36:48Z"
 }
