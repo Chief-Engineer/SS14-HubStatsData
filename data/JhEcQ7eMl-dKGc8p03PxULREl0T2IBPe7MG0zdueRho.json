@@ -1,11 +1,11 @@
 {
   "name": "Starlight - Alpha",
-  "players": 177,
+  "players": 162,
   "soft_max_players": 350,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-20T16:37:55Z",
-  "fetched_at": "2026-08-20T16:37:55Z"
+  "last_online": "2026-08-20T17:31:38Z",
+  "fetched_at": "2026-08-20T17:31:38Z"
 }
