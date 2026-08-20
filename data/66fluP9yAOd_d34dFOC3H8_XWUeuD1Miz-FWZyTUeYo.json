@@ -1,11 +1,11 @@
 {
   "name": "Omu - Pelican",
-  "players": 49,
+  "players": 55,
   "soft_max_players": 85,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-20T13:49:54Z",
-  "fetched_at": "2026-08-20T13:49:54Z"
+  "last_online": "2026-08-20T14:39:43Z",
+  "fetched_at": "2026-08-20T14:39:43Z"
 }
