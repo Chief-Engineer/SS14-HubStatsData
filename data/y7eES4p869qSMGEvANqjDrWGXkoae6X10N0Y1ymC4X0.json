@@ -1,9 +1,9 @@
 {
   "name": "Cosmatic Drift",
-  "players": 0,
+  "players": 3,
   "soft_max_players": 60,
   "hubs": [],
   "online": true,
-  "last_online": "2026-08-20T15:36:34Z",
-  "fetched_at": "2026-08-20T15:36:34Z"
+  "last_online": "2026-08-20T16:37:55Z",
+  "fetched_at": "2026-08-20T16:37:55Z"
 }
