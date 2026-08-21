@@ -1,11 +1,11 @@
 {
   "name": "Colonial Marine Corps",
-  "players": 0,
+  "players": 3,
   "soft_max_players": 250,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-21T05:34:50Z",
-  "fetched_at": "2026-08-21T05:34:50Z"
+  "last_online": "2026-08-21T06:50:58Z",
+  "fetched_at": "2026-08-21T06:50:58Z"
 }
