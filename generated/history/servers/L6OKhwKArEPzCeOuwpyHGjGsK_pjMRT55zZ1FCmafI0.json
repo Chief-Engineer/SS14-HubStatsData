@@ -2233,6 +2233,13 @@
       "hubs": [],
       "online": true,
       "fetched_at": "2026-08-21T21:27:41Z"
+    },
+    {
+      "players": 69,
+      "soft_max_players": 150,
+      "hubs": [],
+      "online": true,
+      "fetched_at": "2026-08-21T21:52:16Z"
     }
   ]
 }
