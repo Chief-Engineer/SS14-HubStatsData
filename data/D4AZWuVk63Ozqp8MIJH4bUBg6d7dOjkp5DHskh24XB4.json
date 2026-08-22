@@ -1,11 +1,11 @@
 {
   "name": "Delta-v - Periapsis",
-  "players": 2,
+  "players": 4,
   "soft_max_players": 60,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-22T17:23:35Z",
-  "fetched_at": "2026-08-22T17:23:35Z"
+  "last_online": "2026-08-22T17:48:31Z",
+  "fetched_at": "2026-08-22T17:48:31Z"
 }
