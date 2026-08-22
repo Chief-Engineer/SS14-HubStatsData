@@ -1,11 +1,11 @@
 {
   "name": "Goob - Alpha",
-  "players": 54,
+  "players": 64,
   "soft_max_players": 85,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-22T02:37:45Z",
-  "fetched_at": "2026-08-22T02:37:45Z"
+  "last_online": "2026-08-22T03:44:38Z",
+  "fetched_at": "2026-08-22T03:44:38Z"
 }
