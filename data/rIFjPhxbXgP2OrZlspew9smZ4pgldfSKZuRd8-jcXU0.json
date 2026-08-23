@@ -1,11 +1,11 @@
 {
   "name": "Corvax - Goob",
-  "players": 61,
+  "players": 66,
   "soft_max_players": 90,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-23T11:48:03Z",
-  "fetched_at": "2026-08-23T11:48:03Z"
+  "last_online": "2026-08-23T12:43:01Z",
+  "fetched_at": "2026-08-23T12:43:01Z"
 }
