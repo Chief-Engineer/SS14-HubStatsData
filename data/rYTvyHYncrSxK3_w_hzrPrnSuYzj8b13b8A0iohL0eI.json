@@ -1,7 +1,7 @@
 {
-  "name": "Funky Station - Cirno",
-  "players": 91,
-  "soft_max_players": 90,
+  "name": "Unknown Server",
+  "players": 1,
+  "soft_max_players": 128,
   "hubs": [
     1
   ],
