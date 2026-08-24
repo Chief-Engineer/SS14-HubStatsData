@@ -1,11 +1,11 @@
 {
   "name": "Wizard's Den - Leviathan",
-  "players": 81,
+  "players": 77,
   "soft_max_players": 80,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-24T21:31:26Z",
-  "fetched_at": "2026-08-24T21:31:26Z"
+  "last_online": "2026-08-24T22:28:56Z",
+  "fetched_at": "2026-08-24T22:28:56Z"
 }
