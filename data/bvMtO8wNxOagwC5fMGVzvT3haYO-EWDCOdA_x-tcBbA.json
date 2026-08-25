@@ -1,11 +1,11 @@
 {
   "name": "TraumaStation",
-  "players": 59,
+  "players": 33,
   "soft_max_players": 90,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-25T04:42:09Z",
-  "fetched_at": "2026-08-25T04:42:09Z"
+  "last_online": "2026-08-25T05:33:42Z",
+  "fetched_at": "2026-08-25T05:33:42Z"
 }
