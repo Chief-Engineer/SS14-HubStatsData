@@ -3585,6 +3585,13 @@
       "hubs": [],
       "online": false,
       "fetched_at": "2026-08-25T07:45:37Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-25T08:45:16Z"
     }
   ]
 }
