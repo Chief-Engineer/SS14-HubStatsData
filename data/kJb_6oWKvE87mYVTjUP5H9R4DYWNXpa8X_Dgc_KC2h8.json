@@ -1,11 +1,11 @@
 {
   "name": "Omu - Magpie",
-  "players": 1,
+  "players": 0,
   "soft_max_players": 50,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-26T18:16:10Z",
-  "fetched_at": "2026-08-26T18:16:10Z"
+  "last_online": "2026-08-26T20:36:33Z",
+  "fetched_at": "2026-08-26T20:36:33Z"
 }
