@@ -1,11 +1,11 @@
 {
   "name": "Spellward - Soma",
-  "players": 105,
+  "players": 114,
   "soft_max_players": 300,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-26T02:49:18Z",
-  "fetched_at": "2026-08-26T02:49:18Z"
+  "last_online": "2026-08-26T03:55:23Z",
+  "fetched_at": "2026-08-26T03:55:23Z"
 }
