@@ -1,11 +1,11 @@
 {
   "name": "Wayfarer",
-  "players": 10,
+  "players": 8,
   "soft_max_players": 64,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-08-26T11:32:15Z",
-  "fetched_at": "2026-08-26T11:32:15Z"
+  "last_online": "2026-08-26T12:55:42Z",
+  "fetched_at": "2026-08-26T12:55:42Z"
 }
