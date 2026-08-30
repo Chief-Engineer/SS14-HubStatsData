@@ -1,7 +1,7 @@
 {
-  "name": "Euphoria Station",
-  "players": 64,
-  "soft_max_players": 240,
+  "name": "Unknown Server",
+  "players": 6,
+  "soft_max_players": 100,
   "hubs": [
     1
   ],
