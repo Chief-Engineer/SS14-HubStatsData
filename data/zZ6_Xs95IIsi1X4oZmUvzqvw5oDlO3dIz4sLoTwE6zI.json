@@ -1,11 +1,11 @@
 {
   "name": "Frontier - Hypatia",
-  "players": 18,
+  "players": 42,
   "soft_max_players": 100,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-09-01T16:16:03Z",
-  "fetched_at": "2026-09-01T16:16:03Z"
+  "last_online": "2026-09-01T19:29:45Z",
+  "fetched_at": "2026-09-01T19:29:45Z"
 }

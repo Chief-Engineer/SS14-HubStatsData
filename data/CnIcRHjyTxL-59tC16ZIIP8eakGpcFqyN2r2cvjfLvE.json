@@ -1,11 +1,11 @@
 {
   "name": "Starlight - Delta",
-  "players": 0,
+  "players": 2,
   "soft_max_players": 120,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-09-01T16:16:03Z",
-  "fetched_at": "2026-09-01T16:16:03Z"
+  "last_online": "2026-09-01T19:29:45Z",
+  "fetched_at": "2026-09-01T19:29:45Z"
 }
