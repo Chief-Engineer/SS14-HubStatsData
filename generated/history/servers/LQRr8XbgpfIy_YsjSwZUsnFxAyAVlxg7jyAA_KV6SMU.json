@@ -6452,6 +6452,15 @@
       ],
       "online": true,
       "fetched_at": "2026-09-02T12:54:33Z"
+    },
+    {
+      "players": 1,
+      "soft_max_players": 30,
+      "hubs": [
+        1
+      ],
+      "online": true,
+      "fetched_at": "2026-09-02T17:03:14Z"
     }
   ]
 }
