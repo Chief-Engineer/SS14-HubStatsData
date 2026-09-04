@@ -1,7 +1,7 @@
 {
-  "name": "Wayfarer",
-  "players": 25,
-  "soft_max_players": 64,
+  "name": "Unknown Server",
+  "players": 3,
+  "soft_max_players": 30,
   "hubs": [
     1
   ],
