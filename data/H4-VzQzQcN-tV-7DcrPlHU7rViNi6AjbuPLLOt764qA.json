@@ -1,7 +1,7 @@
 {
-  "name": "Delta-v - Periapsis",
-  "players": 2,
-  "soft_max_players": 60,
+  "name": "Unknown Server",
+  "players": 13,
+  "soft_max_players": 100,
   "hubs": [
     1
   ],
