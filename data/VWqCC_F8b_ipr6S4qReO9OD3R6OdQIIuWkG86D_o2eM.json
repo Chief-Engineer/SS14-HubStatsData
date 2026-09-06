@@ -1,11 +1,11 @@
 {
   "name": "Wizard's Den - Salamander",
-  "players": 39,
+  "players": 42,
   "soft_max_players": 80,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-09-05T22:47:39Z",
-  "fetched_at": "2026-09-05T22:47:39Z"
+  "last_online": "2026-09-06T00:42:14Z",
+  "fetched_at": "2026-09-06T00:42:14Z"
 }
