@@ -2,102 +2,1202 @@
   "name": "Unknown Server",
   "entries": [
     {
-      "players": 2,
+      "players": 0,
       "soft_max_players": 30,
       "hubs": [
         1
       ],
       "online": true,
+      "fetched_at": "2026-08-01T05:59:30Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-01T08:31:36Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-01T10:42:21Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-01T12:03:53Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-01T14:07:43Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-01T15:37:57Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-01T17:02:22Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-01T18:29:08Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-01T19:46:35Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-01T20:54:43Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-01T21:58:53Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-01T23:02:34Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-02T01:08:01Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-02T04:55:59Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-02T07:32:46Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-02T09:59:18Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-02T11:23:10Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-02T12:35:02Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-02T14:37:13Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-02T16:01:46Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-02T17:32:37Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-02T19:12:38Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-02T20:28:39Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-02T21:28:50Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-02T22:30:41Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-02T23:59:36Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-03T03:46:34Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-03T07:29:09Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-03T10:55:53Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-03T13:44:30Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-03T16:02:25Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-03T16:28:05Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-03T18:20:11Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-03T20:13:05Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-03T21:41:40Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-03T23:03:02Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-04T01:01:27Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-04T04:22:03Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-04T07:15:01Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-04T10:12:13Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-04T12:27:13Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-04T15:04:22Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-04T17:14:07Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-04T19:08:46Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-04T20:51:53Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-04T22:14:41Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-04T23:34:26Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-05T02:40:49Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-05T05:49:03Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-05T08:39:19Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-05T11:23:01Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-05T13:12:11Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-05T15:39:54Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-05T17:40:55Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-05T19:38:04Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-05T21:12:17Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-05T22:35:46Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-06T00:01:58Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-06T03:50:39Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-06T06:33:24Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-06T09:42:02Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-06T12:04:30Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-06T14:29:57Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-06T14:55:00Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T00:25:13Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T03:30:10Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T05:18:46Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T06:48:22Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T08:16:33Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T09:33:17Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T10:54:21Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T11:48:10Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T13:07:44Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T14:33:10Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T15:59:15Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T17:00:57Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T17:56:31Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T19:01:49Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T20:06:42Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T21:12:21Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T22:07:37Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-07T23:07:23Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T00:01:04Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T02:11:29Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T03:51:31Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T04:59:16Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T05:50:00Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T06:56:27Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T07:52:21Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T08:43:39Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T09:39:54Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T10:35:53Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T11:30:56Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T11:57:58Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T13:03:48Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T14:07:18Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T14:59:42Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T15:38:38Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T16:36:52Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T17:33:06Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T18:40:11Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T19:32:58Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T20:33:13Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T21:32:46Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T22:32:17Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-08T23:31:20Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T01:51:38Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T03:46:02Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T05:07:24Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T06:09:23Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T07:34:13Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T07:46:10Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T08:46:14Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T09:41:46Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T10:37:14Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T11:31:21Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T12:55:02Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T13:52:23Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T14:36:44Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T15:33:56Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T16:38:01Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T17:34:19Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T18:43:12Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T19:35:20Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T20:35:00Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T21:34:43Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T22:33:52Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-09T23:33:25Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-10T01:56:03Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-10T03:59:07Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-10T05:40:52Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-10T07:45:19Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-10T09:24:50Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-10T10:44:22Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-10T11:48:55Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-10T13:12:27Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-10T14:37:26Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-10T16:01:11Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-10T17:27:41Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-10T18:25:22Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-10T19:32:26Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-10T20:44:20Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-10T21:43:25Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-10T22:39:15Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-10T23:37:10Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-11T01:51:43Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-11T03:47:46Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-11T05:11:12Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-11T06:28:48Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-11T07:49:34Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-11T08:59:08Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-11T10:06:41Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-11T11:21:19Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-11T12:09:56Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-11T13:55:56Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-11T15:00:39Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-11T16:08:19Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-11T17:29:47Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-11T18:29:15Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-08-11T19:39:17Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
       "fetched_at": "2026-08-11T20:47:43Z"
     },
     {
-      "players": 1,
-      "soft_max_players": 30,
-      "hubs": [
-        1
-      ],
-      "online": true,
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
       "fetched_at": "2026-08-11T21:52:23Z"
     },
     {
       "players": 0,
-      "soft_max_players": 30,
-      "hubs": [
-        1
-      ],
-      "online": true,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
       "fetched_at": "2026-08-11T22:44:19Z"
     },
     {
-      "players": 3,
-      "soft_max_players": 30,
-      "hubs": [
-        1
-      ],
-      "online": true,
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
       "fetched_at": "2026-08-11T23:42:59Z"
     },
     {
       "players": 0,
-      "soft_max_players": 30,
-      "hubs": [
-        1
-      ],
-      "online": true,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
       "fetched_at": "2026-08-12T02:04:56Z"
     },
     {
       "players": 0,
-      "soft_max_players": 30,
-      "hubs": [
-        1
-      ],
-      "online": true,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
       "fetched_at": "2026-08-12T04:23:33Z"
     },
     {
       "players": 0,
-      "soft_max_players": 30,
-      "hubs": [
-        1
-      ],
-      "online": true,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
       "fetched_at": "2026-08-12T05:57:36Z"
     },
     {
       "players": 0,
-      "soft_max_players": 30,
-      "hubs": [
-        1
-      ],
-      "online": true,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
       "fetched_at": "2026-08-12T07:40:48Z"
     },
     {
       "players": 0,
-      "soft_max_players": 30,
-      "hubs": [
-        1
-      ],
-      "online": true,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
       "fetched_at": "2026-08-12T09:14:35Z"
     },
     {
       "players": 0,
-      "soft_max_players": 30,
-      "hubs": [
-        1
-      ],
-      "online": true,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
       "fetched_at": "2026-08-12T10:35:59Z"
     },
     {
-      "players": 1,
-      "soft_max_players": 30,
-      "hubs": [
-        1
-      ],
-      "online": true,
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
       "fetched_at": "2026-08-12T11:48:48Z"
     },
     {
@@ -3049,331 +4149,12 @@
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-08-31T07:33:27Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-08-31T15:56:35Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-08-31T21:23:25Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-01T00:44:57Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-01T06:06:13Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-01T11:56:24Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-01T16:16:03Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-01T19:29:45Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-01T21:57:54Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-01T23:56:58Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-02T03:26:46Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-02T08:06:38Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-02T12:54:33Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-02T17:03:14Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-02T20:00:41Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-02T22:47:14Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-03T00:59:57Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-03T05:40:20Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-03T10:51:06Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-03T14:55:15Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-03T18:24:19Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-03T21:14:54Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-03T23:27:02Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-04T01:13:28Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-04T06:21:07Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-04T11:36:01Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-04T15:55:59Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-04T18:54:15Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-04T21:17:58Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-04T23:12:24Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-05T01:17:07Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-05T06:09:06Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-05T10:52:42Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-05T13:44:01Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-05T16:36:41Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-05T18:50:38Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-05T20:58:49Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-05T22:47:39Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-06T00:42:14Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-06T05:37:40Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-06T10:29:01Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-06T13:46:54Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-06T16:45:18Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-06T18:55:20Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-06T21:08:39Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-06T23:00:56Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 30,
+      "hubs": [
+        1,
+        2
+      ],
+      "online": true,
       "fetched_at": "2026-09-07T00:53:59Z"
     }
   ]
