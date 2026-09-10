@@ -1,7 +1,7 @@
 {
-  "name": "Trieste Port",
-  "players": 0,
-  "soft_max_players": 45,
+  "name": "Unknown Server",
+  "players": 8,
+  "soft_max_players": 30,
   "hubs": [
     1
   ],
