@@ -1,9 +1,9 @@
 {
   "name": "Moffstation",
-  "players": 1,
+  "players": 0,
   "soft_max_players": 100,
   "hubs": [],
   "online": true,
-  "last_online": "2026-09-12T16:27:10Z",
-  "fetched_at": "2026-09-12T16:27:10Z"
+  "last_online": "2026-09-12T18:38:08Z",
+  "fetched_at": "2026-09-12T18:38:08Z"
 }
