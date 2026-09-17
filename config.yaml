@@ -63,6 +63,9 @@ servers:
     - name: Euphoria Station
       addresses:
         - ss14://euphoria.game-server.cc:1212
+    - name: Final Horizon '84
+      addresses:
+        - FINAL_HORIZON_84_ADDRESS
     - name: Frontier - Hypatia
       addresses:
         - ss14://hypatia.frontierstation14.com:1212
