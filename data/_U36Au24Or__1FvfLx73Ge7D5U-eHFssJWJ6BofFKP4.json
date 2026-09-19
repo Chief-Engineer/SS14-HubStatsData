@@ -1,7 +1,7 @@
 {
-  "name": "Issy's",
-  "players": 1,
-  "soft_max_players": 64,
+  "name": "Unknown Server",
+  "players": 20,
+  "soft_max_players": 120,
   "hubs": [
     1
   ],
