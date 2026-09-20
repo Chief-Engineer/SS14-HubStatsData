@@ -7368,6 +7368,15 @@
       "hubs": [],
       "online": false,
       "fetched_at": "2026-09-20T05:14:51Z"
+    },
+    {
+      "players": 6,
+      "soft_max_players": 250,
+      "hubs": [
+        1
+      ],
+      "online": true,
+      "fetched_at": "2026-09-20T14:07:47Z"
     }
   ]
 }
