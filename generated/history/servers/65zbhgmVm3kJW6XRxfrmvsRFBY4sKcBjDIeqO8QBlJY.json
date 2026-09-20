@@ -6980,6 +6980,13 @@
       "hubs": [],
       "online": false,
       "fetched_at": "2026-09-20T17:35:56Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-09-20T20:29:31Z"
     }
   ]
 }
