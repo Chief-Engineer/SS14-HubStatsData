@@ -1,11 +1,9 @@
 {
   "name": "Funky Station - Yoshika",
-  "players": 16,
-  "soft_max_players": 55,
-  "hubs": [
-    1
-  ],
-  "online": true,
-  "last_online": "2026-09-20T05:14:51Z",
-  "fetched_at": "2026-09-20T05:14:51Z"
+  "players": 0,
+  "soft_max_players": 0,
+  "hubs": [],
+  "online": false,
+  "last_online": "2026-09-20T14:07:47Z",
+  "fetched_at": "2026-09-20T14:07:47Z"
 }
