@@ -9,6 +9,7 @@
     },
     "-XsTzEmBnWsNhPa2KHcBmz2S28LSRkZd4gqRHQRmsPI": {
       "name": "Jamboree",
+      "players": 3,
       "hubs": [
         1
       ],
@@ -25,14 +26,13 @@
     },
     "-hK6PS9XQ16bhUhGdM7SlQFvQinoB8RBXQ-0m3cT8eQ": {
       "name": "S.T.A.L.K.E.R. 14",
-      "players": 16,
+      "players": 13,
       "hubs": [
         1
       ],
       "online": true
     },
     "05DntQDAFv6YZMHeOSPU_t2Dt3Mwie8cMvCgiYOC0Lk": {
-      "players": 5,
       "hubs": [
         1
       ],
@@ -51,11 +51,7 @@
       "online": true
     },
     "0_iTs-GpgIWmClglk7NgR8p80YVrouIBngfTMFRON_s": {
-      "players": 2,
-      "hubs": [
-        1
-      ],
-      "online": true
+      "online": false
     },
     "0xVI3fs9kPoCJjSUuECM5TSTBvoqGY_09AeQqzW0BX8": {
       "online": false
@@ -80,7 +76,7 @@
       "online": true
     },
     "3IY9wp6QkaBMDe-pCHLmPq6tFq9VVq1dix1OMTwnxw4": {
-      "players": 14,
+      "players": 17,
       "hubs": [
         1
       ],
@@ -115,7 +111,7 @@
       "online": true
     },
     "4dBrKzas_K79d9YrGLkwURDMzDd5uPnoQFaL1VtA3Pg": {
-      "players": 53,
+      "players": 11,
       "hubs": [
         1
       ],
@@ -130,12 +126,11 @@
     },
     "51ibKl1Pmvl1NYquNmagvWR15PGfMjykzKW8VtVCOq4": {
       "name": "Moffstation",
-      "players": 2,
+      "players": 33,
       "online": true
     },
     "5dVqbyV4VIS9rAy2nQO4he55-nmOd757b_sXdweIX4I": {
       "name": "R.O.N. Station",
-      "players": 2,
       "hubs": [
         1
       ],
@@ -149,17 +144,14 @@
       "online": true
     },
     "5rqMwOLtHFEgWCVrzXR1vQwT-9pX9Ukx86c0uAfPNS0": {
-      "hubs": [
-        1
-      ],
-      "online": true
+      "online": false
     },
     "65zbhgmVm3kJW6XRxfrmvsRFBY4sKcBjDIeqO8QBlJY": {
       "online": false
     },
     "66fluP9yAOd_d34dFOC3H8_XWUeuD1Miz-FWZyTUeYo": {
       "name": "Omu - Pelican",
-      "players": 70,
+      "players": 85,
       "hubs": [
         1
       ],
@@ -167,7 +159,7 @@
     },
     "6DN69EFn8ZDKhEWoaj_GAW_iHo0q0Ud8tlDcv03oNCE": {
       "name": "Corvax - Frontier",
-      "players": 32,
+      "players": 15,
       "hubs": [
         1
       ],
@@ -175,7 +167,7 @@
     },
     "6NWc0FIWq7JDdkUYeDbKCJmtpXxXlZ8OXaePeoudYJA": {
       "name": "Hardlight Sector",
-      "players": 93,
+      "players": 100,
       "hubs": [
         1,
         2
@@ -258,7 +250,7 @@
       "online": false
     },
     "B_dCC4Vapyscxu-IfMMAEkna9I-TiKEZIBVUpJ6nk2k": {
-      "players": 34,
+      "players": 10,
       "hubs": [
         1
       ],
@@ -268,7 +260,7 @@
       "name": "Delta-v - Apoapsis",
       "address": "ss14s://apoapsis.deltav.gay:443",
       "connect": true,
-      "players": 74,
+      "players": 76,
       "hubs": [
         1
       ],
@@ -328,7 +320,6 @@
       "online": true
     },
     "DxePKcjSRpZ9U25zsEJsl6UzqY6eyVHCXJOFLOQZiiE": {
-      "players": 1,
       "hubs": [
         1
       ],
@@ -336,7 +327,7 @@
     },
     "EBWV7XU3htaYV_co4BVFwyhr9SKB_fcJI8yNWkwRHJs": {
       "name": "RatBite Station",
-      "players": 44,
+      "players": 36,
       "hubs": [
         1
       ],
@@ -379,7 +370,7 @@
       "online": true
     },
     "FjsKSBUkgc9KDJj2Vv106o63muPscYjXLJ7m0W7DenY": {
-      "players": 8,
+      "players": 5,
       "hubs": [
         1
       ],
@@ -402,7 +393,7 @@
     },
     "GQG_ncVcExpnqhIXmyNIdd-QcUwKhsUxVp_jAos9Exk": {
       "name": "Space Stories Marine Corps - Core",
-      "players": 115,
+      "players": 18,
       "hubs": [
         1
       ],
@@ -459,7 +450,7 @@
     },
     "J0a3grrK8FxLMnAtRZTGaXorLUoxmcbcZjUTsweM9OA": {
       "name": "Funky Station - Cirno",
-      "players": 84,
+      "players": 70,
       "hubs": [
         1
       ],
@@ -472,7 +463,7 @@
       "name": "Starlight - Alpha",
       "address": "ss14://starlight.network:31201",
       "connect": true,
-      "players": 211,
+      "players": 199,
       "hubs": [
         1
       ],
@@ -488,7 +479,7 @@
       "name": "Wizard's Den - Lizard",
       "address": "ss14s://lizard.spacestation14.com:443",
       "connect": true,
-      "players": 66,
+      "players": 76,
       "hubs": [
         1
       ],
@@ -535,7 +526,7 @@
       "name": "Goob - Basileus",
       "address": "ss14s://omega.goobstation.com:443",
       "connect": true,
-      "players": 85,
+      "players": 82,
       "hubs": [
         1
       ],
@@ -543,17 +534,14 @@
     },
     "Nnl9TFykvJdja-i5sTDW_V-0NBy7ZhWqlXQWqOrKTbU": {
       "name": "Triad Sector",
-      "players": 34,
+      "players": 38,
       "hubs": [
         1
       ],
       "online": true
     },
     "NuEmKPk_1VhC6vqUXG_SrMQw_A8sF3u7BvmwLzmDE_Y": {
-      "hubs": [
-        1
-      ],
-      "online": true
+      "online": false
     },
     "OGPpgqrtgjztjYCdcdEaJL0Kh_m0nEG_fT7YwOW0lv0": {
       "hubs": [
@@ -563,7 +551,7 @@
     },
     "OvQ03W1cbwNS-P50yAxwdotw-EII6YhcQ1NlpQeLyos": {
       "name": "Wayfarer",
-      "players": 20,
+      "players": 13,
       "hubs": [
         1
       ],
@@ -573,11 +561,7 @@
       "online": false
     },
     "P3TqWSo2m2ODy8OXU2eV4xBVDNvaYKZ2tAgY6a8ek5o": {
-      "players": 2,
-      "hubs": [
-        1
-      ],
-      "online": true
+      "online": false
     },
     "PGOc3vVnnXijRgNpPAi8FlxaxrVSvtN6fhLxyjW8lbY": {
       "hubs": [
@@ -586,7 +570,7 @@
       "online": true
     },
     "PJmpuZtvf7G2rVToAZXm74SkGtOGt6051iVFowFOfmE": {
-      "players": 21,
+      "players": 7,
       "hubs": [
         1
       ],
@@ -597,14 +581,13 @@
     },
     "QEM-DXz2nuhkDz9nJoHvN_O-KFCV5-xjIlz3e-vVp98": {
       "name": "Spellward - Soma",
-      "players": 16,
+      "players": 18,
       "hubs": [
         1
       ],
       "online": true
     },
     "QmQcFWnKPP00jJZpEGLa_larpMR7dyCHJ19T0-kbPB4": {
-      "players": 1,
       "hubs": [
         1
       ],
@@ -617,7 +600,6 @@
       "online": true
     },
     "QqAObLuVmZb52v6LrRgdNRqKBxg7nbVGYHZAUd7X0HE": {
-      "players": 8,
       "hubs": [
         1
       ],
@@ -633,17 +615,20 @@
       "online": false
     },
     "RG_7FnAXCQSIG8v8oQeUQDnAUAzuYVk34qhX7hIowKY": {
-      "players": 13,
+      "players": 2,
       "hubs": [
         1
       ],
       "online": true
     },
     "RXFAH681g77urD6q_O25oniWow5hsqKMtNrKIx_0KKA": {
-      "online": false
+      "hubs": [
+        1
+      ],
+      "online": true
     },
     "Rec9x6Z-8u31UpE1VtrtdKlpkAaBc3gYOeaKKdRep9U": {
-      "players": 3,
+      "players": 1,
       "hubs": [
         1
       ],
@@ -653,14 +638,12 @@
       "name": "Starlight - Gamma",
       "address": "ss14://starlight.network:31206",
       "connect": true,
-      "players": 1,
       "hubs": [
         1
       ],
       "online": true
     },
     "SaXpVnAoLsJNcyXZxjhcm85W6mgPKMZu1zX8gb5xgCQ": {
-      "players": 1,
       "hubs": [
         1
       ],
@@ -705,7 +688,6 @@
       "online": false
     },
     "UAoCqpJHlLaiTRCcmilDU7pwbUf1Zfm9YG55QL5zHbA": {
-      "players": 2,
       "hubs": [
         1
       ],
@@ -713,7 +695,7 @@
     },
     "UGehM2x0645DMCLlpl8S9evFowVlV2VvlVMcAo42F6A": {
       "name": "Harmony",
-      "players": 51,
+      "players": 35,
       "hubs": [
         1
       ],
@@ -735,7 +717,7 @@
       "name": "Wizard's Den - Salamander",
       "address": "ss14s://salamander.spacestation14.com:443",
       "connect": true,
-      "players": 44,
+      "players": 40,
       "hubs": [
         1
       ],
@@ -745,6 +727,7 @@
       "name": "Goob - Sigma",
       "address": "ss14s://sigma.goobstation.com:443",
       "connect": true,
+      "players": 5,
       "hubs": [
         1
       ],
@@ -761,7 +744,6 @@
       "online": true
     },
     "W6G00T9OUs9Kbsj41kDkMCYwmrBmytgTonc1nxJAEhg": {
-      "players": 18,
       "hubs": [
         1
       ],
@@ -771,7 +753,6 @@
       "online": false
     },
     "WLRiUPMEcdvbtAUk-JghwljJzRfE1XEI39kfFRCOujo": {
-      "players": 3,
       "hubs": [
         1
       ],
@@ -785,7 +766,7 @@
     },
     "Y4wzmKn04c7oesNSKvmr0lfahXCW_AJdd4RWQwpioNg": {
       "name": "Monolith Babel",
-      "players": 30,
+      "players": 18,
       "hubs": [
         1
       ],
@@ -795,14 +776,11 @@
       "name": "Starlight - Epsilon",
       "address": "ss14://starlight.network:31203",
       "connect": true,
-      "players": 26,
+      "players": 31,
       "hubs": [
         1
       ],
       "online": true
-    },
-    "YzpqtDyIBaq8Lmn8T6h_uob52276RDZWMeif4fVYKRY": {
-      "online": false
     },
     "Z6I9UGDG1OrMtKP8oxFB4rKK9W0QLmm1CIeFWmKHfSY": {
       "online": false
@@ -815,7 +793,7 @@
       "online": false
     },
     "ZPoFLtDNIs9CrS8EchYFSLYZDYYL1GAljYxTf8AvPio": {
-      "players": 5,
+      "players": 6,
       "hubs": [
         1
       ],
@@ -855,7 +833,7 @@
       "online": false
     },
     "aPbm7v9a81pVHquKjUPCJYxhVoYVnX21keIBD6-FAto": {
-      "players": 11,
+      "players": 7,
       "hubs": [
         1
       ],
@@ -869,7 +847,7 @@
     },
     "b2kjvzJ0a17HpVi27o3wZE_2tZZP9QUVCThjIKAs2iY": {
       "name": "Afterlight",
-      "players": 2,
+      "players": 8,
       "hubs": [
         1
       ],
@@ -879,14 +857,13 @@
       "name": "Wizard's Den - Raptor",
       "address": "ss14://152.53.83.10:1212",
       "connect": true,
-      "players": 12,
+      "players": 17,
       "hubs": [
         1
       ],
       "online": true
     },
     "bHdSz3fZ7uJDw7HcKpYiUBDCYFgeTEHD0cgMGJciPTs": {
-      "players": 1,
       "hubs": [
         1
       ],
@@ -897,7 +874,7 @@
     },
     "bvMtO8wNxOagwC5fMGVzvT3haYO-EWDCOdA_x-tcBbA": {
       "name": "TraumaStation",
-      "players": 32,
+      "players": 38,
       "hubs": [
         1
       ],
@@ -910,14 +887,14 @@
       "online": false
     },
     "cWAE4zVk_LPxnGKlp8B1Snm00sCG6t6fGzZ8EBC35ro": {
-      "players": 3,
+      "players": 1,
       "hubs": [
         1
       ],
       "online": true
     },
     "d2EwzJDQyECVsB1DEZ-H7uxC0riF_UvTvC8eWoNXlwY": {
-      "players": 92,
+      "players": 70,
       "hubs": [
         1
       ],
@@ -930,7 +907,7 @@
       "online": false
     },
     "dk_LWkp07m48n2ekT0V7SGFQ1qphhRLoIYLdxpNq-Ds": {
-      "players": 14,
+      "players": 12,
       "hubs": [
         1
       ],
@@ -956,7 +933,7 @@
     },
     "eA6-ZXXvAwD1P_BHb9E0G7xb17o2iXCxQiZCIkCuMb4": {
       "name": "Carpmosia",
-      "players": 27,
+      "players": 29,
       "hubs": [
         1
       ],
@@ -975,7 +952,6 @@
       "online": false
     },
     "eWeeFKPpLJWhGPPHoDqkIGE904UfiHloA563UR_KTJM": {
-      "players": 4,
       "hubs": [
         1
       ],
@@ -1000,7 +976,7 @@
       "name": "Starlight - Beta",
       "address": "ss14://starlight.network:31202",
       "connect": true,
-      "players": 55,
+      "players": 58,
       "hubs": [
         1
       ],
@@ -1031,7 +1007,11 @@
       "online": true
     },
     "gQaL7cig06fe_BoQWUkcVbGZPb1hpepkeijEhEAaBNI": {
-      "online": false
+      "players": 9,
+      "hubs": [
+        1
+      ],
+      "online": true
     },
     "gRZqImsMjFx3JkQ1zogNRyrXJcVj7Z1vFoZ2u3Or4EI": {
       "online": false
@@ -1040,7 +1020,7 @@
       "name": "Rouny's Marine Corps - Alamo",
       "address": "ss14://104.243.34.95:1212",
       "connect": true,
-      "players": 223,
+      "players": 193,
       "hubs": [
         1
       ],
@@ -1051,7 +1031,7 @@
     },
     "hIAt_vMP7qL2jnIF7hY8xmxrQcmtsz9i4N9g82yx3k0": {
       "name": "Issy's",
-      "players": 4,
+      "players": 3,
       "hubs": [
         1
       ],
@@ -1064,7 +1044,7 @@
       "online": false
     },
     "i9vis_B-uXfu6ok2LxdImoy8zSWdw8Kxzc3FjNKNa9w": {
-      "players": 12,
+      "players": 4,
       "hubs": [
         1
       ],
@@ -1110,20 +1090,21 @@
       "online": false
     },
     "jYUQrkFyHF88BcuvxXyRehXI9vhAqQa8pZ-kWI92noY": {
-      "players": 55,
+      "players": 17,
       "hubs": [
         1
       ],
       "online": true
     },
     "jeqmRuwNg3hQT07cMEAgVOcaY4Z_TnnjVQEvzHZSyIo": {
-      "online": false
-    },
-    "jiZ0MlVEbx5-xbsm4zuLketKKYFbIlnGGSrQshLri_c": {
-      "online": false
+      "players": 12,
+      "hubs": [
+        1
+      ],
+      "online": true
     },
     "jzuJlbJUVo4aKNT5S_uAUvLmf5f9TknLUiId72XWZUM": {
-      "players": 6,
+      "players": 3,
       "hubs": [
         1
       ],
@@ -1134,6 +1115,7 @@
     },
     "kJb_6oWKvE87mYVTjUP5H9R4DYWNXpa8X_Dgc_KC2h8": {
       "name": "Omu - Magpie",
+      "players": 3,
       "hubs": [
         1
       ],
@@ -1143,7 +1125,7 @@
       "online": false
     },
     "khtlJASBpdLbUb9zYxSNMOU4oZF3C5SFsrAcgC_0SMM": {
-      "players": 16,
+      "players": 15,
       "hubs": [
         1
       ],
@@ -1157,6 +1139,7 @@
     },
     "ktah7rmZzmtt48otOJxGhs5DKrEoVK4uaF5Lx_1cMeY": {
       "name": "Trieste Port",
+      "players": 3,
       "hubs": [
         1
       ],
@@ -1179,7 +1162,7 @@
       "name": "Wizard's Den - Leviathan",
       "address": "ss14s://leviathan.spacestation14.com:443",
       "connect": true,
-      "players": 77,
+      "players": 81,
       "hubs": [
         1
       ],
@@ -1197,7 +1180,7 @@
     },
     "lvOokGMibQonIrwL40tKIhpcHKlYCpWRxKIv5zs64BU": {
       "name": "Corvax - Вега",
-      "players": 29,
+      "players": 7,
       "hubs": [
         1
       ],
@@ -1205,7 +1188,7 @@
     },
     "mCFfgk2p3iOZxXye2XnTfmeMVknIOhxJdPmvLx6LJjM": {
       "name": "Colonial Marines Universe",
-      "players": 62,
+      "players": 80,
       "hubs": [
         1
       ],
@@ -1225,7 +1208,7 @@
     },
     "o5l1gKcBRc63BCFCi-_rV2MnX1CZ-SbOMsCdtUohzLs": {
       "name": "Misfits: Nuclear Wasteland 2296",
-      "players": 75,
+      "players": 80,
       "hubs": [
         1
       ],
@@ -1258,7 +1241,7 @@
     },
     "pDWWprxv1g_4OqRzE7zAFVx1YvlkRW-RYBPajRExrwU": {
       "name": "Byrd Station",
-      "players": 33,
+      "players": 38,
       "hubs": [
         1
       ],
@@ -1268,7 +1251,7 @@
       "online": false
     },
     "pZOPu8cJhsiH9IhB3JLuksPXRzG7NXj_288h94RfG4I": {
-      "players": 11,
+      "players": 9,
       "hubs": [
         1
       ],
@@ -1290,14 +1273,14 @@
       "name": "Frontier - Maunder",
       "address": "ss14://maunder.frontierstation14.com:1212",
       "connect": true,
-      "players": 12,
+      "players": 17,
       "hubs": [
         1
       ],
       "online": true
     },
     "r2-Oi5FMkKCehkXjSL4pvimKm4v1nye2oRWSgUOj4IQ": {
-      "players": 15,
+      "players": 1,
       "hubs": [
         1,
         2
@@ -1305,6 +1288,7 @@
       "online": true
     },
     "rI6SC6XGjzWqXG52aEPJCd78hK1lsh5B3pRrGtlEsfI": {
+      "players": 5,
       "hubs": [
         1
       ],
@@ -1314,7 +1298,7 @@
       "name": "Corvax - Goob",
       "address": "ss14s://game1.station14.ru:443/void/server",
       "connect": true,
-      "players": 13,
+      "players": 1,
       "hubs": [
         1
       ],
@@ -1327,21 +1311,20 @@
       "online": true
     },
     "rbO6PCsy2bF5UBi3PQjdQJ3GGcVy87Lb-fw4X__RqUk": {
-      "players": 3,
       "hubs": [
         1
       ],
       "online": true
     },
     "rbv_c-6RtD8vr2XNwgvPU3WJTTqM7TG_xk4ypHnPIMk": {
-      "players": 71,
+      "players": 34,
       "hubs": [
         1
       ],
       "online": true
     },
     "rl25RJwTPM2GKmN4ZdU2EVvKD-6Jnf5ALKMPkA4KA_8": {
-      "players": 33,
+      "players": 15,
       "hubs": [
         1
       ],
@@ -1374,13 +1357,14 @@
     },
     "t3EL_ZyxSExYW60Cq4nsN3WSLoZ_M41YgPoUqJ642hk": {
       "name": "StarHorizon Frontier",
-      "players": 3,
+      "players": 4,
       "hubs": [
         1
       ],
       "online": true
     },
     "tNWE4JAXNvKO1idk5fZ_3lGE4DfmqFmiUtoYAjye1J8": {
+      "players": 2,
       "hubs": [
         1
       ],
@@ -1399,7 +1383,7 @@
       "online": true
     },
     "tfihpJXqsJstgolgDMScxQwb_-MybZ_LVRoYeVDZJT0": {
-      "players": 19,
+      "players": 1,
       "hubs": [
         1
       ],
@@ -1412,14 +1396,14 @@
       "online": true
     },
     "u1nnHhwCtMHpXOBQjie1Xcw7oxGLncwF0OlLPgdBGzk": {
-      "players": 5,
+      "players": 2,
       "hubs": [
         1
       ],
       "online": true
     },
     "uC1tpz0S2B9AjFZdGi4TRjOBnMQdgVazDlpRv0cSkag": {
-      "players": 79,
+      "players": 46,
       "hubs": [
         1
       ],
@@ -1445,7 +1429,7 @@
       "name": "Goob - Alpha",
       "address": "ss14s://alpha.goobstation.com:443",
       "connect": true,
-      "players": 26,
+      "players": 48,
       "hubs": [
         1
       ],
@@ -1479,13 +1463,13 @@
       "online": true
     },
     "xFW_ls2o8hpsuPYieOA0pmrwt6T2mWJifzFlVd1Y88Q": {
+      "players": 6,
       "hubs": [
         1
       ],
       "online": true
     },
     "xPUbbz_bLW5l1bLj7se62D7h49C2A_af_bZ1HvT0zjM": {
-      "players": 9,
       "hubs": [
         1
       ],
@@ -1496,7 +1480,7 @@
     },
     "xohvx-BnkUusZfoeAR7P60XgU8F0F2xwgvFnQG5E9Do": {
       "name": "Corvax - FALLOUT",
-      "players": 5,
+      "players": 1,
       "hubs": [
         1
       ],
@@ -1504,6 +1488,10 @@
     },
     "y7eES4p869qSMGEvANqjDrWGXkoae6X10N0Y1ymC4X0": {
       "name": "Cosmatic Drift",
+      "players": 6,
+      "hubs": [
+        1
+      ],
       "online": true
     },
     "y9vyqxeNY7SrAMiGnIg_AW6Gr2uGgBXrwb2bY07FnKc": {
@@ -1525,23 +1513,20 @@
       "online": false
     },
     "z9jA3NPRL82QLG4Zt5aNSnd4kSN1wUYVlqglcPfWUvA": {
-      "players": 5,
+      "players": 1,
       "hubs": [
         1
       ],
       "online": true
     },
     "zQ3egHH_14Xmb5LF_YQtI8k3BXC_F5L4d5YWK5Wymzw": {
-      "hubs": [
-        1
-      ],
-      "online": true
+      "online": false
     },
     "zZ6_Xs95IIsi1X4oZmUvzqvw5oDlO3dIz4sLoTwE6zI": {
       "name": "Frontier - Hypatia",
       "address": "ss14://hypatia.frontierstation14.com:1212",
       "connect": true,
-      "players": 28,
+      "players": 49,
       "hubs": [
         1
       ],
@@ -1549,7 +1534,10 @@
     },
     "zfj1AYEyQZfZH4w8mIfvPEJI1E1T5cPJLXXmyWlUe-4": {
       "name": "Euphoria Station",
-      "players": 71,
+      "players": 69,
+      "hubs": [
+        1
+      ],
       "online": true
     },
     "zrgVv6qm5-bxJSoMvrFuRPHO69koT1I-vixbO6P_muk": {
@@ -1563,5 +1551,5 @@
       "online": false
     }
   },
-  "fetched_at": "2026-09-23T21:15:50Z"
+  "fetched_at": "2026-09-23T23:54:03Z"
 }
