@@ -1,11 +1,11 @@
 {
   "name": "Corvax - Вега",
-  "players": 3,
+  "players": 14,
   "soft_max_players": 100,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-09-26T01:51:11Z",
-  "fetched_at": "2026-09-26T01:51:11Z"
+  "last_online": "2026-09-26T07:12:16Z",
+  "fetched_at": "2026-09-26T07:12:16Z"
 }
