@@ -1,11 +1,11 @@
 {
   "name": "Goob - Sigma",
-  "players": 68,
+  "players": 75,
   "soft_max_players": 85,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-09-29T23:55:06Z",
-  "fetched_at": "2026-09-29T23:55:06Z"
+  "last_online": "2026-09-30T04:33:20Z",
+  "fetched_at": "2026-09-30T04:33:20Z"
 }
