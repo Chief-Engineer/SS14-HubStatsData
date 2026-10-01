@@ -4470,6 +4470,11 @@
       "total_players": 0,
       "server_count": 6,
       "fetched_at": "2026-10-01T00:43:54Z"
+    },
+    {
+      "total_players": 82,
+      "server_count": 7,
+      "fetched_at": "2026-10-01T06:58:25Z"
     }
   ]
 }
