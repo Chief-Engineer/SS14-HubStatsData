@@ -7888,6 +7888,13 @@
       "hubs": [],
       "online": false,
       "fetched_at": "2026-10-01T23:46:37Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-10-02T04:36:08Z"
     }
   ]
 }
