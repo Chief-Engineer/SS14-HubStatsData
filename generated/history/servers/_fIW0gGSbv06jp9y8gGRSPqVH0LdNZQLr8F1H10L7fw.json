@@ -2,8 +2,8 @@
   "name": "Unknown Server",
   "entries": [
     {
-      "players": 151,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -11,8 +11,8 @@
       "fetched_at": "2026-07-23T06:15:42Z"
     },
     {
-      "players": 154,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -20,8 +20,8 @@
       "fetched_at": "2026-07-23T06:32:12Z"
     },
     {
-      "players": 149,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -29,8 +29,8 @@
       "fetched_at": "2026-07-23T06:36:26Z"
     },
     {
-      "players": 146,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -38,8 +38,8 @@
       "fetched_at": "2026-07-23T09:29:14Z"
     },
     {
-      "players": 177,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -47,8 +47,8 @@
       "fetched_at": "2026-07-23T11:28:07Z"
     },
     {
-      "players": 188,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -56,8 +56,8 @@
       "fetched_at": "2026-07-23T13:07:56Z"
     },
     {
-      "players": 190,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -65,8 +65,8 @@
       "fetched_at": "2026-07-23T15:33:59Z"
     },
     {
-      "players": 246,
-      "soft_max_players": 350,
+      "players": 2,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -74,8 +74,8 @@
       "fetched_at": "2026-07-23T17:37:37Z"
     },
     {
-      "players": 276,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -83,8 +83,8 @@
       "fetched_at": "2026-07-23T19:35:23Z"
     },
     {
-      "players": 301,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -92,8 +92,8 @@
       "fetched_at": "2026-07-23T21:12:12Z"
     },
     {
-      "players": 291,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -101,8 +101,8 @@
       "fetched_at": "2026-07-23T22:33:42Z"
     },
     {
-      "players": 303,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -110,8 +110,8 @@
       "fetched_at": "2026-07-24T00:06:02Z"
     },
     {
-      "players": 277,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -119,8 +119,8 @@
       "fetched_at": "2026-07-24T03:55:46Z"
     },
     {
-      "players": 232,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -128,8 +128,8 @@
       "fetched_at": "2026-07-24T05:31:49Z"
     },
     {
-      "players": 220,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -137,8 +137,8 @@
       "fetched_at": "2026-07-24T06:32:34Z"
     },
     {
-      "players": 169,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -146,8 +146,8 @@
       "fetched_at": "2026-07-24T09:26:15Z"
     },
     {
-      "players": 180,
-      "soft_max_players": 350,
+      "players": 2,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -155,8 +155,8 @@
       "fetched_at": "2026-07-24T11:19:23Z"
     },
     {
-      "players": 201,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -164,8 +164,8 @@
       "fetched_at": "2026-07-24T13:02:48Z"
     },
     {
-      "players": 250,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -173,8 +173,8 @@
       "fetched_at": "2026-07-24T15:15:38Z"
     },
     {
-      "players": 247,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -182,8 +182,8 @@
       "fetched_at": "2026-07-24T17:08:18Z"
     },
     {
-      "players": 235,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -191,8 +191,8 @@
       "fetched_at": "2026-07-24T19:00:44Z"
     },
     {
-      "players": 253,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -200,8 +200,8 @@
       "fetched_at": "2026-07-24T20:43:47Z"
     },
     {
-      "players": 251,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -209,8 +209,8 @@
       "fetched_at": "2026-07-24T20:47:40Z"
     },
     {
-      "players": 257,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -218,8 +218,8 @@
       "fetched_at": "2026-07-24T20:54:17Z"
     },
     {
-      "players": 261,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -227,8 +227,8 @@
       "fetched_at": "2026-07-24T21:25:03Z"
     },
     {
-      "players": 283,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -236,8 +236,8 @@
       "fetched_at": "2026-07-24T22:12:18Z"
     },
     {
-      "players": 248,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -245,8 +245,8 @@
       "fetched_at": "2026-07-24T23:35:14Z"
     },
     {
-      "players": 277,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -254,8 +254,8 @@
       "fetched_at": "2026-07-25T03:20:57Z"
     },
     {
-      "players": 178,
-      "soft_max_players": 350,
+      "players": 1,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -263,8 +263,8 @@
       "fetched_at": "2026-07-25T06:01:35Z"
     },
     {
-      "players": 175,
-      "soft_max_players": 350,
+      "players": 1,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -272,8 +272,8 @@
       "fetched_at": "2026-07-25T08:31:37Z"
     },
     {
-      "players": 177,
-      "soft_max_players": 350,
+      "players": 2,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -281,8 +281,8 @@
       "fetched_at": "2026-07-25T10:39:13Z"
     },
     {
-      "players": 183,
-      "soft_max_players": 350,
+      "players": 2,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -290,8 +290,8 @@
       "fetched_at": "2026-07-25T11:31:30Z"
     },
     {
-      "players": 188,
-      "soft_max_players": 350,
+      "players": 2,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -299,8 +299,8 @@
       "fetched_at": "2026-07-25T12:00:48Z"
     },
     {
-      "players": 187,
-      "soft_max_players": 350,
+      "players": 2,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -308,8 +308,8 @@
       "fetched_at": "2026-07-25T12:05:14Z"
     },
     {
-      "players": 187,
-      "soft_max_players": 350,
+      "players": 2,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -317,8 +317,8 @@
       "fetched_at": "2026-07-25T12:06:22Z"
     },
     {
-      "players": 195,
-      "soft_max_players": 350,
+      "players": 1,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -326,8 +326,8 @@
       "fetched_at": "2026-07-25T12:47:53Z"
     },
     {
-      "players": 200,
-      "soft_max_players": 350,
+      "players": 2,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -335,8 +335,8 @@
       "fetched_at": "2026-07-25T12:55:42Z"
     },
     {
-      "players": 209,
-      "soft_max_players": 350,
+      "players": 1,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -344,8 +344,8 @@
       "fetched_at": "2026-07-25T13:14:08Z"
     },
     {
-      "players": 212,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -353,8 +353,8 @@
       "fetched_at": "2026-07-25T13:21:11Z"
     },
     {
-      "players": 210,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -362,8 +362,8 @@
       "fetched_at": "2026-07-25T14:11:58Z"
     },
     {
-      "players": 225,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -371,8 +371,8 @@
       "fetched_at": "2026-07-25T15:40:46Z"
     },
     {
-      "players": 230,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -380,8 +380,8 @@
       "fetched_at": "2026-07-25T17:01:11Z"
     },
     {
-      "players": 287,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -389,8 +389,8 @@
       "fetched_at": "2026-07-25T18:27:15Z"
     },
     {
-      "players": 302,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -398,8 +398,8 @@
       "fetched_at": "2026-07-25T19:47:34Z"
     },
     {
-      "players": 314,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -407,8 +407,8 @@
       "fetched_at": "2026-07-25T20:54:47Z"
     },
     {
-      "players": 297,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -416,8 +416,8 @@
       "fetched_at": "2026-07-25T21:57:57Z"
     },
     {
-      "players": 261,
-      "soft_max_players": 350,
+      "players": 1,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -425,8 +425,8 @@
       "fetched_at": "2026-07-25T23:02:21Z"
     },
     {
-      "players": 284,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -434,8 +434,8 @@
       "fetched_at": "2026-07-26T01:07:42Z"
     },
     {
-      "players": 223,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -443,8 +443,8 @@
       "fetched_at": "2026-07-26T04:33:15Z"
     },
     {
-      "players": 191,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -452,8 +452,8 @@
       "fetched_at": "2026-07-26T04:58:54Z"
     },
     {
-      "players": 170,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -461,8 +461,8 @@
       "fetched_at": "2026-07-26T07:42:03Z"
     },
     {
-      "players": 163,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -470,8 +470,8 @@
       "fetched_at": "2026-07-26T10:01:54Z"
     },
     {
-      "players": 189,
-      "soft_max_players": 350,
+      "players": 1,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -479,8 +479,8 @@
       "fetched_at": "2026-07-26T11:45:16Z"
     },
     {
-      "players": 211,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -488,8 +488,8 @@
       "fetched_at": "2026-07-26T13:26:02Z"
     },
     {
-      "players": 235,
-      "soft_max_players": 350,
+      "players": 1,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -497,8 +497,8 @@
       "fetched_at": "2026-07-26T14:48:59Z"
     },
     {
-      "players": 242,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -506,8 +506,8 @@
       "fetched_at": "2026-07-26T16:04:29Z"
     },
     {
-      "players": 293,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -515,8 +515,8 @@
       "fetched_at": "2026-07-26T17:33:24Z"
     },
     {
-      "players": 285,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -524,8 +524,8 @@
       "fetched_at": "2026-07-26T19:13:41Z"
     },
     {
-      "players": 297,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -533,8 +533,8 @@
       "fetched_at": "2026-07-26T20:29:44Z"
     },
     {
-      "players": 297,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -542,8 +542,8 @@
       "fetched_at": "2026-07-26T21:30:56Z"
     },
     {
-      "players": 268,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -551,8 +551,8 @@
       "fetched_at": "2026-07-26T23:00:41Z"
     },
     {
-      "players": 275,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -560,8 +560,8 @@
       "fetched_at": "2026-07-27T00:08:58Z"
     },
     {
-      "players": 201,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -569,8 +569,8 @@
       "fetched_at": "2026-07-27T04:22:29Z"
     },
     {
-      "players": 169,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -578,8 +578,8 @@
       "fetched_at": "2026-07-27T08:01:57Z"
     },
     {
-      "players": 185,
-      "soft_max_players": 350,
+      "players": 2,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -587,8 +587,8 @@
       "fetched_at": "2026-07-27T11:52:07Z"
     },
     {
-      "players": 202,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -596,8 +596,8 @@
       "fetched_at": "2026-07-27T14:40:01Z"
     },
     {
-      "players": 233,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -605,8 +605,8 @@
       "fetched_at": "2026-07-27T16:59:04Z"
     },
     {
-      "players": 256,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -614,8 +614,8 @@
       "fetched_at": "2026-07-27T18:41:58Z"
     },
     {
-      "players": 272,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -623,8 +623,8 @@
       "fetched_at": "2026-07-27T20:24:19Z"
     },
     {
-      "players": 267,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -632,8 +632,8 @@
       "fetched_at": "2026-07-27T21:40:01Z"
     },
     {
-      "players": 298,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -641,8 +641,8 @@
       "fetched_at": "2026-07-27T23:03:39Z"
     },
     {
-      "players": 315,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -650,8 +650,8 @@
       "fetched_at": "2026-07-28T00:55:39Z"
     },
     {
-      "players": 230,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -659,8 +659,8 @@
       "fetched_at": "2026-07-28T04:13:00Z"
     },
     {
-      "players": 155,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -668,8 +668,8 @@
       "fetched_at": "2026-07-28T07:14:41Z"
     },
     {
-      "players": 183,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -677,8 +677,8 @@
       "fetched_at": "2026-07-28T10:07:49Z"
     },
     {
-      "players": 176,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -686,8 +686,8 @@
       "fetched_at": "2026-07-28T12:21:35Z"
     },
     {
-      "players": 216,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -695,8 +695,8 @@
       "fetched_at": "2026-07-28T15:00:01Z"
     },
     {
-      "players": 254,
-      "soft_max_players": 350,
+      "players": 2,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -704,8 +704,8 @@
       "fetched_at": "2026-07-28T16:47:23Z"
     },
     {
-      "players": 255,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -713,8 +713,8 @@
       "fetched_at": "2026-07-28T18:15:49Z"
     },
     {
-      "players": 270,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -722,8 +722,8 @@
       "fetched_at": "2026-07-28T20:01:44Z"
     },
     {
-      "players": 305,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -731,8 +731,8 @@
       "fetched_at": "2026-07-28T21:39:29Z"
     },
     {
-      "players": 305,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -741,14 +741,16 @@
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-29T00:57:35Z"
     },
     {
-      "players": 231,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -756,8 +758,8 @@
       "fetched_at": "2026-07-29T04:18:28Z"
     },
     {
-      "players": 235,
-      "soft_max_players": 350,
+      "players": 1,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -765,8 +767,8 @@
       "fetched_at": "2026-07-29T07:19:53Z"
     },
     {
-      "players": 177,
-      "soft_max_players": 350,
+      "players": 0,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -774,8 +776,8 @@
       "fetched_at": "2026-07-29T10:09:02Z"
     },
     {
-      "players": 206,
-      "soft_max_players": 350,
+      "players": 2,
+      "soft_max_players": 50,
       "hubs": [
         1
       ],
@@ -784,170 +786,218 @@
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-29T14:54:51Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-29T16:22:51Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-29T17:48:32Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-29T19:18:55Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-29T20:31:06Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-29T22:02:53Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-29T23:30:59Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-30T02:31:24Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-30T05:42:51Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-30T08:29:17Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-30T10:41:19Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-30T12:45:28Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-30T15:11:11Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-30T17:00:42Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-30T18:56:15Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-30T20:17:05Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-30T21:43:41Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-30T23:09:08Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-31T01:05:33Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-31T05:01:20Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-31T08:17:11Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-31T11:06:54Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-31T13:15:03Z"
     },
     {
       "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-07-31T15:38:11Z"
     },
     {
@@ -5109,1410 +5159,12 @@
       "fetched_at": "2026-08-30T13:09:38Z"
     },
     {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-08-30T17:41:55Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-08-30T20:43:47Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-08-30T23:16:31Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-08-31T01:29:58Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-08-31T07:33:27Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-08-31T15:56:35Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-08-31T21:23:25Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-01T00:44:57Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-01T06:06:13Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-01T11:56:24Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-01T16:16:03Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-01T19:29:45Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-01T21:57:54Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-01T23:56:58Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-02T03:26:46Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-02T08:06:38Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-02T12:54:33Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-02T17:03:14Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-02T20:00:41Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-02T22:47:14Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-03T00:59:57Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-03T05:40:20Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-03T10:51:06Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-03T14:55:15Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-03T18:24:19Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-03T21:14:54Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-03T23:27:02Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-04T01:13:28Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-04T06:21:07Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-04T11:36:01Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-04T15:55:59Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-04T18:54:15Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-04T21:17:58Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-04T23:12:24Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-05T01:17:07Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-05T06:09:06Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-05T10:52:42Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-05T13:44:01Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-05T16:36:41Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-05T18:50:38Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-05T20:58:49Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-05T22:47:39Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-06T00:42:14Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-06T05:37:40Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-06T10:29:01Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-06T13:46:54Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-06T16:45:18Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-06T18:55:20Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-06T21:08:39Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-06T23:00:56Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-07T00:53:59Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-07T05:47:56Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-07T11:52:06Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-07T17:29:35Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-07T20:46:22Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-07T23:20:21Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-08T01:20:35Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-08T06:22:03Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-08T11:37:31Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-08T16:13:26Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-08T19:31:51Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-08T22:26:53Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-09T00:29:24Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-09T05:05:29Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-09T10:02:23Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-09T14:45:38Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-09T18:22:20Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-09T21:06:20Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-09T23:27:56Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-10T01:22:53Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-10T06:26:48Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-10T11:43:02Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-10T16:00:29Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-10T19:06:07Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-10T21:46:57Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-10T23:50:08Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-11T03:34:46Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-11T08:43:34Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-11T13:22:05Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-11T17:06:25Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-11T19:57:57Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-11T22:22:07Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-12T00:29:54Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-12T04:56:52Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-12T09:06:35Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-12T13:02:03Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-12T16:27:10Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-12T18:38:08Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-12T21:19:09Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-12T23:11:34Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-13T01:21:28Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-13T06:37:44Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-13T12:36:31Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-13T16:55:03Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-13T19:14:09Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-13T21:35:57Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-13T23:58:05Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-14T04:02:02Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-14T10:04:15Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-14T16:28:51Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-14T20:27:45Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-14T23:22:38Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-15T01:46:32Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-15T07:22:21Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-15T12:49:59Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-15T17:32:51Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-15T20:58:55Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-15T23:30:27Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-16T01:36:54Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-16T07:23:07Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-16T12:45:38Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-16T17:32:26Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-16T21:00:56Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-16T23:38:39Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-17T22:01:39Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-17T23:59:07Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-18T04:29:56Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-18T09:10:48Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-18T13:45:48Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-18T17:35:21Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-18T20:36:14Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-18T23:06:45Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-19T01:27:11Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-19T06:25:29Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-19T11:22:55Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-19T14:41:26Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-19T17:50:20Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-19T20:13:06Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-19T22:25:52Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-20T00:18:50Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-20T05:14:51Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-20T14:07:47Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-20T17:35:56Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-20T20:29:31Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-20T22:41:33Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-21T00:54:54Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-21T05:59:10Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-21T12:39:54Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-21T18:33:14Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-21T22:30:17Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-22T01:05:40Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-22T06:38:20Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-22T12:27:37Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-22T17:11:45Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-22T20:25:08Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-22T23:11:31Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-23T01:41:28Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-23T07:30:01Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-23T12:59:09Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-23T17:49:30Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-23T21:15:50Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-23T23:54:03Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-24T03:41:04Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-24T09:05:42Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-24T14:20:06Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-24T18:36:14Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-24T22:05:02Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-25T00:42:40Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-25T05:57:18Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-25T11:29:40Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-25T15:56:24Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-25T19:54:40Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-25T23:10:35Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-26T01:51:11Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-26T07:12:16Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-26T12:22:09Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-26T16:37:23Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-26T19:35:47Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-26T22:29:23Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-27T00:50:30Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-27T06:23:50Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-27T12:21:33Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-27T17:11:30Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-27T20:20:10Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-27T23:18:31Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-28T01:54:49Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-28T08:23:13Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-28T16:56:44Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-28T22:27:47Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-29T02:14:05Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-29T08:55:25Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-29T15:27:29Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-29T20:10:47Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-29T23:55:06Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-30T04:33:20Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-30T10:59:11Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-30T16:47:42Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-09-30T21:18:36Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-10-01T00:43:54Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-10-01T06:58:25Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-10-01T14:23:55Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-10-01T19:44:22Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-10-01T23:46:37Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-10-02T04:36:08Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-10-02T10:56:43Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-10-02T16:33:35Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-10-02T21:13:21Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-10-03T00:39:36Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-10-03T06:09:18Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
-      "fetched_at": "2026-10-03T11:56:08Z"
-    },
-    {
-      "players": 0,
-      "soft_max_players": 0,
-      "hubs": [],
-      "online": false,
+      "players": 12,
+      "soft_max_players": 50,
+      "hubs": [
+        1
+      ],
+      "online": true,
       "fetched_at": "2026-10-03T15:54:09Z"
     }
   ]
