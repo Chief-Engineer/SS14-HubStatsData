@@ -1,9 +1,9 @@
 {
   "name": "Final Horizon '84",
-  "players": 25,
-  "soft_max_players": 100,
+  "players": 0,
+  "soft_max_players": 0,
   "hubs": [],
-  "online": true,
-  "last_online": "2026-10-04T18:02:53Z",
-  "fetched_at": "2026-10-04T18:02:53Z"
+  "online": false,
+  "last_online": "2026-10-04T21:49:18Z",
+  "fetched_at": "2026-10-04T21:49:18Z"
 }
