@@ -7830,6 +7830,13 @@
       "hubs": [],
       "online": false,
       "fetched_at": "2026-10-05T15:39:17Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-10-05T22:22:05Z"
     }
   ]
 }
