@@ -1,7 +1,7 @@
 {
-  "name": "StarHorizon Frontier",
+  "name": "Unknown Server",
   "players": 1,
-  "soft_max_players": 100,
+  "soft_max_players": 30,
   "hubs": [
     1
   ],
