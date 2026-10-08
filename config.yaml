@@ -195,6 +195,7 @@ servers:
     - name: Wayfarer
       addresses:
         - ss14://46.110.37.83:1212/
+        - ss14://play.wayfarer14.com:1212/
     - name: Wizard's Den - Leviathan
       addresses:
         - ss14s://leviathan.spacestation14.com:443
