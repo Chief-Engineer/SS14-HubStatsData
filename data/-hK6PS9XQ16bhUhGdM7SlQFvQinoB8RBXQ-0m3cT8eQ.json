@@ -1,11 +1,11 @@
 {
   "name": "S.T.A.L.K.E.R. 14",
-  "players": 9,
+  "players": 26,
   "soft_max_players": 50,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-10-10T16:13:33Z",
-  "fetched_at": "2026-10-10T16:13:33Z"
+  "last_online": "2026-10-10T20:16:45Z",
+  "fetched_at": "2026-10-10T20:16:45Z"
 }
