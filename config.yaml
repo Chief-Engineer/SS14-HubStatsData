@@ -125,6 +125,8 @@ servers:
     - name: Persistence SS14 - Zenith
       addresses:
         - ss14://148.113.213.150:1212/
+    - addresses:
+        - $QUANTUM_BLUE_ADDRESS
     - name: R.O.N. Station
       addresses:
         - ss14://node11.hexacluster.me:27001
