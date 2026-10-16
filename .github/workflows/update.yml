@@ -64,6 +64,7 @@ jobs:
           AURORASONG_ADDRESS: ${{ secrets.AURORASONG_ADDRESS }}
           FINAL_HORIZON_84_ADDRESS: ${{ secrets.FINAL_HORIZON_84_ADDRESS }}
           MOFFSTATION_ADDRESS: ${{ secrets.MOFFSTATION_ADDRESS }}
+          QUANTUM_BLUE_ADDRESS: ${{ secrets.QUANTUM_BLUE_ADDRESS }}
         run: ./ss14-hub-stats update
 
       - name: Commit data
@@ -80,6 +81,7 @@ jobs:
           AURORASONG_ADDRESS: ${{ secrets.AURORASONG_ADDRESS }}
           FINAL_HORIZON_84_ADDRESS: ${{ secrets.FINAL_HORIZON_84_ADDRESS }}
           MOFFSTATION_ADDRESS: ${{ secrets.MOFFSTATION_ADDRESS }}
+          QUANTUM_BLUE_ADDRESS: ${{ secrets.QUANTUM_BLUE_ADDRESS }}
         run: ./ss14-hub-stats generate-history --data-dir . --output-dir ./generated --config config.yaml
 
       - name: Set site URL
@@ -93,6 +95,7 @@ jobs:
           AURORASONG_ADDRESS: ${{ secrets.AURORASONG_ADDRESS }}
           FINAL_HORIZON_84_ADDRESS: ${{ secrets.FINAL_HORIZON_84_ADDRESS }}
           MOFFSTATION_ADDRESS: ${{ secrets.MOFFSTATION_ADDRESS }}
+          QUANTUM_BLUE_ADDRESS: ${{ secrets.QUANTUM_BLUE_ADDRESS }}
         run: ./ss14-hub-stats update-site --dir . --site-url "$SITE_URL"
 
       - name: Commit history
