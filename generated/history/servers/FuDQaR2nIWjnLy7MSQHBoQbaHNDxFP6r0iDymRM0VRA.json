@@ -8771,6 +8771,15 @@
       ],
       "online": true,
       "fetched_at": "2026-10-22T10:28:46Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 30,
+      "hubs": [
+        1
+      ],
+      "online": true,
+      "fetched_at": "2026-10-22T15:33:11Z"
     }
   ]
 }
