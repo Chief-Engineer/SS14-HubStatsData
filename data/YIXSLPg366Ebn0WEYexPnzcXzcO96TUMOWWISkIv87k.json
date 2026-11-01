@@ -1,11 +1,11 @@
 {
   "name": "Starlight - Epsilon",
-  "players": 20,
+  "players": 30,
   "soft_max_players": 32,
   "hubs": [
     1
   ],
   "online": true,
-  "last_online": "2026-11-01T15:56:29Z",
-  "fetched_at": "2026-11-01T15:56:29Z"
+  "last_online": "2026-11-01T20:19:52Z",
+  "fetched_at": "2026-11-01T20:19:52Z"
 }
