@@ -5445,6 +5445,11 @@
       "total_players": 0,
       "server_count": 1,
       "fetched_at": "2026-11-11T00:33:18Z"
+    },
+    {
+      "total_players": 0,
+      "server_count": 1,
+      "fetched_at": "2026-11-11T07:34:19Z"
     }
   ]
 }
