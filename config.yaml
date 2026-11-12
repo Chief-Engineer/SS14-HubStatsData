@@ -20,7 +20,7 @@ servers:
     - name: Aurora's Song
       addresses:
         - $AURORASONG_ADDRESS
-    - name: Boomerstation
+    - name: MonkeStation14
       addresses:
         - ss14://ss14.monkestation.com:1212
       connect: true
