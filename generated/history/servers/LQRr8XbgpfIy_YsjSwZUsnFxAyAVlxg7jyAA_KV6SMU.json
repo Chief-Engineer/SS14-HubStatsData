@@ -9780,6 +9780,15 @@
       "hubs": [],
       "online": false,
       "fetched_at": "2026-11-20T13:28:40Z"
+    },
+    {
+      "players": 4,
+      "soft_max_players": 30,
+      "hubs": [
+        1
+      ],
+      "online": true,
+      "fetched_at": "2026-11-20T21:29:46Z"
     }
   ]
 }
