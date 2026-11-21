@@ -1,9 +1,11 @@
 {
   "name": "Colonial Marines Universe",
-  "players": 0,
-  "soft_max_players": 0,
-  "hubs": [],
-  "online": false,
-  "last_online": "2026-11-20T21:29:46Z",
-  "fetched_at": "2026-11-20T21:29:46Z"
+  "players": 71,
+  "soft_max_players": 350,
+  "hubs": [
+    1
+  ],
+  "online": true,
+  "last_online": "2026-11-21T02:45:16Z",
+  "fetched_at": "2026-11-21T02:45:16Z"
 }
