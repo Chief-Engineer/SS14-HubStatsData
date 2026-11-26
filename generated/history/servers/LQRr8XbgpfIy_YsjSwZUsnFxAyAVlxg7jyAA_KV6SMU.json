@@ -9902,6 +9902,13 @@
       "hubs": [],
       "online": false,
       "fetched_at": "2026-11-25T19:08:51Z"
+    },
+    {
+      "players": 0,
+      "soft_max_players": 0,
+      "hubs": [],
+      "online": false,
+      "fetched_at": "2026-11-26T02:24:15Z"
     }
   ]
 }
