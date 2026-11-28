@@ -5720,6 +5720,11 @@
       "total_players": 251,
       "server_count": 6,
       "fetched_at": "2026-11-27T21:55:56Z"
+    },
+    {
+      "total_players": 220,
+      "server_count": 6,
+      "fetched_at": "2026-11-28T03:46:50Z"
     }
   ]
 }
